@@ -46,6 +46,29 @@
     ":@computed_region_p8tp_5dkv": "9"
   },
   {
+    "business_licence_number": "BL276888",
+    "business_id": "16445017",
+    "address": "#2 112 9 AV NW",
+    "business_licence_type": "SHORT TERM RENTAL - TIER ONE",
+    "type_of_residence": "Apartment/condo unit",
+    "licenced_date": "2024-01-25T16:20:58",
+    "licenced_expiry_date": "2025-01-24T16:20:58",
+    "status_description": "Licensed",
+    "longitude": "-114.06344446829301",
+    "latitude": "51.06090639875785",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.06344446829301,
+        51.06090639875785
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "7",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "266",
+    ":@computed_region_p8tp_5dkv": "7"
+  },
+  {
     "business_licence_number": "BL268907",
     "business_id": "16333122",
     "address": "154B CARRINGSBY WY NW",
@@ -3473,29 +3496,6 @@
     ":@computed_region_p8tp_5dkv": "12"
   },
   {
-    "business_licence_number": "BL276888",
-    "business_id": "16445017",
-    "address": "#2 112 9 AV NW",
-    "business_licence_type": "SHORT TERM RENTAL - TIER ONE",
-    "type_of_residence": "Apartment/condo unit",
-    "licenced_date": "2024-01-25T16:20:58",
-    "licenced_expiry_date": "2025-01-24T16:20:58",
-    "status_description": "Licensed",
-    "longitude": "-114.06344446829301",
-    "latitude": "51.06090639875785",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.06344446829301,
-        51.06090639875785
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "7",
-    ":@computed_region_4a3i_ccfj": "2",
-    ":@computed_region_kxmf_bzkv": "266",
-    ":@computed_region_p8tp_5dkv": "7"
-  },
-  {
     "business_licence_number": "BL267723",
     "business_id": "16318511",
     "address": "657B LIVINGSTON WY NE",
@@ -5563,29 +5563,6 @@
     ":@computed_region_4b54_tmc4": "12",
     ":@computed_region_4a3i_ccfj": "3",
     ":@computed_region_kxmf_bzkv": "121",
-    ":@computed_region_p8tp_5dkv": "11"
-  },
-  {
-    "business_licence_number": "BL275128",
-    "business_id": "16417537",
-    "address": "1103 37 ST SE",
-    "business_licence_type": "SHORT TERM RENTAL - TIER ONE",
-    "type_of_residence": "Duplex/triplex",
-    "licenced_date": "2023-11-15T14:07:12",
-    "licenced_expiry_date": "2024-11-14T14:07:12",
-    "status_description": "Expired",
-    "longitude": "-113.98047801615888",
-    "latitude": "51.04384636093526",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -113.98047801615888,
-        51.04384636093526
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "12",
-    ":@computed_region_4a3i_ccfj": "3",
-    ":@computed_region_kxmf_bzkv": "85",
     ":@computed_region_p8tp_5dkv": "11"
   },
   {
@@ -11625,29 +11602,6 @@
     ":@computed_region_p8tp_5dkv": "2"
   },
   {
-    "business_licence_number": "BL263514",
-    "business_id": "16270720",
-    "address": "1638 15 AV SW",
-    "business_licence_type": "SHORT TERM RENTAL - TIER ONE",
-    "type_of_residence": "Suite in a house",
-    "licenced_date": "2024-01-09T09:14:09",
-    "licenced_expiry_date": "2025-01-08T09:14:09",
-    "status_description": "Closed",
-    "longitude": "-114.09913717423525",
-    "latitude": "51.03981256032875",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.09913717423525,
-        51.03981256032875
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "14",
-    ":@computed_region_4a3i_ccfj": "1",
-    ":@computed_region_kxmf_bzkv": "136",
-    ":@computed_region_p8tp_5dkv": "2"
-  },
-  {
     "business_licence_number": "BL284320",
     "business_id": "16536666",
     "address": "331 SHAWNESSY DR SW",
@@ -12313,6 +12267,29 @@
     ":@computed_region_4a3i_ccfj": "4",
     ":@computed_region_kxmf_bzkv": "2",
     ":@computed_region_p8tp_5dkv": "1"
+  },
+  {
+    "business_licence_number": "BL275128",
+    "business_id": "16417537",
+    "address": "1103 37 ST SE",
+    "business_licence_type": "SHORT TERM RENTAL - TIER ONE",
+    "type_of_residence": "Duplex/triplex",
+    "licenced_date": "2023-11-15T14:07:12",
+    "licenced_expiry_date": "2024-11-14T14:07:12",
+    "status_description": "Expired",
+    "longitude": "-113.98047801615888",
+    "latitude": "51.04384636093526",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -113.98047801615888,
+        51.04384636093526
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "12",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "85",
+    ":@computed_region_p8tp_5dkv": "11"
   },
   {
     "business_licence_number": "BL285858",
@@ -16982,6 +16959,29 @@
     ":@computed_region_4a3i_ccfj": "3",
     ":@computed_region_kxmf_bzkv": "46",
     ":@computed_region_p8tp_5dkv": "8"
+  },
+  {
+    "business_licence_number": "BL263514",
+    "business_id": "16270720",
+    "address": "1638 15 AV SW",
+    "business_licence_type": "SHORT TERM RENTAL - TIER ONE",
+    "type_of_residence": "Suite in a house",
+    "licenced_date": "2024-01-09T09:14:09",
+    "licenced_expiry_date": "2025-01-08T09:14:09",
+    "status_description": "Closed",
+    "longitude": "-114.09913717423525",
+    "latitude": "51.03981256032875",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.09913717423525,
+        51.03981256032875
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "14",
+    ":@computed_region_4a3i_ccfj": "1",
+    ":@computed_region_kxmf_bzkv": "136",
+    ":@computed_region_p8tp_5dkv": "2"
   },
   {
     "business_licence_number": "BL232501",
