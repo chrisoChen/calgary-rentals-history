@@ -3381,27 +3381,27 @@
     ":@computed_region_p8tp_5dkv": "10"
   },
   {
-    "business_licence_number": "BL240362",
-    "business_id": "15980998",
-    "address": "104 AUBURN GLEN HT SE",
+    "business_licence_number": "BL240802",
+    "business_id": "15985468",
+    "address": "239 DOVERCLIFFE WY SE",
     "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
     "type_of_residence": "Single/detached house",
-    "licenced_date": "2024-01-14T11:44:38",
-    "licenced_expiry_date": "2025-01-13T11:44:38",
+    "licenced_date": "2024-01-27T23:46:42",
+    "licenced_expiry_date": "2025-01-26T23:46:42",
     "status_description": "Expired",
-    "longitude": "-113.95462269614828",
-    "latitude": "50.894022310766466",
+    "longitude": "-113.9760689342582",
+    "latitude": "51.02370987705616",
     "point": {
       "type": "Point",
       "coordinates": [
-        -113.95462269614828,
-        50.894022310766466
+        -113.9760689342582,
+        51.02370987705616
       ]
     },
-    ":@computed_region_4b54_tmc4": "4",
+    ":@computed_region_4b54_tmc4": "10",
     ":@computed_region_4a3i_ccfj": "3",
-    ":@computed_region_kxmf_bzkv": "95",
-    ":@computed_region_p8tp_5dkv": "8"
+    ":@computed_region_kxmf_bzkv": "196",
+    ":@computed_region_p8tp_5dkv": "11"
   },
   {
     "business_licence_number": "BL269298",
@@ -3427,13 +3427,13 @@
     ":@computed_region_p8tp_5dkv": "4"
   },
   {
-    "business_licence_number": "BL286884",
-    "business_id": "16566564",
-    "address": "46R WALDEN CO SE",
+    "business_licence_number": "BL287213",
+    "business_id": "16570921",
+    "address": "3232D 19 AV SE",
     "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2024-12-16T16:20:53",
-    "licenced_expiry_date": "2025-12-16T16:20:53",
+    "type_of_residence": "Duplex/triplex",
+    "licenced_date": "2025-02-18T10:18:57",
+    "licenced_expiry_date": "2026-02-18T10:18:57",
     "status_description": "Licensed"
   },
   {
@@ -16754,27 +16754,14 @@
     ":@computed_region_p8tp_5dkv": "12"
   },
   {
-    "business_licence_number": "BL240949",
-    "business_id": "15987324",
-    "address": "866 LIVINGSTON WY NE",
+    "business_licence_number": "BL287459",
+    "business_id": "16573867",
+    "address": "278B WEST RANCH PL SW",
     "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Duplex/triplex",
-    "licenced_date": "2025-02-01T11:33:48",
-    "licenced_expiry_date": "2026-02-01T11:33:48",
-    "status_description": "Licensed",
-    "longitude": "-114.0597534650648",
-    "latitude": "51.18502243089074",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.0597534650648,
-        51.18502243089074
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "11",
-    ":@computed_region_4a3i_ccfj": "4",
-    ":@computed_region_kxmf_bzkv": "246",
-    ":@computed_region_p8tp_5dkv": "12"
+    "type_of_residence": "A bedroom in the home",
+    "licenced_date": "2025-05-01T15:57:57",
+    "licenced_expiry_date": "2026-05-01T15:57:57",
+    "status_description": "Licensed"
   },
   {
     "business_licence_number": "BL280870",
@@ -29220,13 +29207,13 @@
     ":@computed_region_p8tp_5dkv": "5"
   },
   {
-    "business_licence_number": "BL287213",
-    "business_id": "16570921",
-    "address": "3232D 19 AV SE",
+    "business_licence_number": "BL232996",
+    "business_id": "15890247",
+    "address": "1733 28 ST SW",
     "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Duplex/triplex",
-    "licenced_date": "2025-02-18T10:18:57",
-    "licenced_expiry_date": "2026-02-18T10:18:57",
+    "type_of_residence": "Single/detached house",
+    "licenced_date": "2024-03-07T15:23:25",
+    "licenced_expiry_date": "2025-03-07T15:23:25",
     "status_description": "Licensed"
   },
   {
@@ -31323,14 +31310,14 @@
     ":@computed_region_p8tp_5dkv": "12"
   },
   {
-    "business_licence_number": "BL287459",
-    "business_id": "16573867",
-    "address": "278B WEST RANCH PL SW",
+    "business_licence_number": "BL252558",
+    "business_id": "16130007",
+    "address": "1729 28 ST SW",
     "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "A bedroom in the home",
-    "licenced_date": "2025-05-01T15:57:57",
-    "licenced_expiry_date": "2026-05-01T15:57:57",
-    "status_description": "Licensed"
+    "type_of_residence": "Duplex/triplex",
+    "licenced_date": "2024-02-07T11:04:26",
+    "licenced_expiry_date": "2025-02-06T11:04:26",
+    "status_description": "Expired"
   },
   {
     "business_licence_number": "BL283965",
@@ -34116,13 +34103,13 @@
     ":@computed_region_p8tp_5dkv": "1"
   },
   {
-    "business_licence_number": "BL282831",
-    "business_id": "16517526",
-    "address": "2715R MORLEY TR NW",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2024-09-16T12:11:57",
-    "licenced_expiry_date": "2025-09-16T12:11:57",
+    "business_licence_number": "BL270921",
+    "business_id": "16360000",
+    "address": "19G PRESTWICK CV SE",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Single/detached house",
+    "licenced_date": "2024-07-08T22:03:52",
+    "licenced_expiry_date": "2025-07-08T22:03:52",
     "status_description": "Licensed"
   },
   {
@@ -43970,13 +43957,13 @@
     ":@computed_region_p8tp_5dkv": "4"
   },
   {
-    "business_licence_number": "BL232996",
-    "business_id": "15890247",
-    "address": "1733 28 ST SW",
+    "business_licence_number": "BL282831",
+    "business_id": "16517526",
+    "address": "2715R MORLEY TR NW",
     "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Single/detached house",
-    "licenced_date": "2024-03-07T15:23:25",
-    "licenced_expiry_date": "2025-03-07T15:23:25",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2024-09-16T12:11:57",
+    "licenced_expiry_date": "2025-09-16T12:11:57",
     "status_description": "Licensed"
   },
   {
@@ -46188,14 +46175,14 @@
     ":@computed_region_p8tp_5dkv": "2"
   },
   {
-    "business_licence_number": "BL252558",
-    "business_id": "16130007",
-    "address": "1729 28 ST SW",
+    "business_licence_number": "BL286884",
+    "business_id": "16566564",
+    "address": "46R WALDEN CO SE",
     "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Duplex/triplex",
-    "licenced_date": "2024-02-07T11:04:26",
-    "licenced_expiry_date": "2025-02-06T11:04:26",
-    "status_description": "Expired"
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2024-12-16T16:20:53",
+    "licenced_expiry_date": "2025-12-16T16:20:53",
+    "status_description": "Licensed"
   },
   {
     "business_licence_number": "BL245336",
@@ -52889,16 +52876,6 @@
     ":@computed_region_4a3i_ccfj": "1",
     ":@computed_region_kxmf_bzkv": "182",
     ":@computed_region_p8tp_5dkv": "2"
-  },
-  {
-    "business_licence_number": "BL270921",
-    "business_id": "16360000",
-    "address": "19G PRESTWICK CV SE",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Single/detached house",
-    "licenced_date": "2024-07-08T22:03:52",
-    "licenced_expiry_date": "2025-07-08T22:03:52",
-    "status_description": "Licensed"
   },
   {
     "business_licence_number": "BL279375",
@@ -59755,27 +59732,27 @@
     ":@computed_region_p8tp_5dkv": "1"
   },
   {
-    "business_licence_number": "BL240802",
-    "business_id": "15985468",
-    "address": "239 DOVERCLIFFE WY SE",
+    "business_licence_number": "BL240949",
+    "business_id": "15987324",
+    "address": "866 LIVINGSTON WY NE",
     "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Single/detached house",
-    "licenced_date": "2024-01-27T23:46:42",
-    "licenced_expiry_date": "2025-01-26T23:46:42",
-    "status_description": "Expired",
-    "longitude": "-113.9760689342582",
-    "latitude": "51.02370987705616",
+    "type_of_residence": "Duplex/triplex",
+    "licenced_date": "2025-02-01T11:33:48",
+    "licenced_expiry_date": "2026-02-01T11:33:48",
+    "status_description": "Licensed",
+    "longitude": "-114.0597534650648",
+    "latitude": "51.18502243089074",
     "point": {
       "type": "Point",
       "coordinates": [
-        -113.9760689342582,
-        51.02370987705616
+        -114.0597534650648,
+        51.18502243089074
       ]
     },
-    ":@computed_region_4b54_tmc4": "10",
-    ":@computed_region_4a3i_ccfj": "3",
-    ":@computed_region_kxmf_bzkv": "196",
-    ":@computed_region_p8tp_5dkv": "11"
+    ":@computed_region_4b54_tmc4": "11",
+    ":@computed_region_4a3i_ccfj": "4",
+    ":@computed_region_kxmf_bzkv": "246",
+    ":@computed_region_p8tp_5dkv": "12"
   },
   {
     "business_licence_number": "BL272857",
