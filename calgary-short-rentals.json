@@ -50819,13 +50819,13 @@
     "licenced_date": "2024-10-07T16:55:53",
     "licenced_expiry_date": "2025-10-07T16:55:53",
     "status_description": "Licensed",
-    "longitude": "-114.17213968892098",
-    "latitude": "51.06196631367111",
+    "longitude": "-114.17197978449597",
+    "latitude": "51.062005474503856",
     "point": {
       "type": "Point",
       "coordinates": [
-        -114.17213968892098,
-        51.06196631367111
+        -114.17197978449597,
+        51.062005474503856
       ]
     },
     ":@computed_region_4b54_tmc4": "1",
