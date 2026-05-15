@@ -14209,13 +14209,13 @@
     "licenced_date": "2026-02-09T12:57:37",
     "licenced_expiry_date": "2027-02-09T12:57:37",
     "status_description": "Licensed",
-    "longitude": "-114.09867293678913",
-    "latitude": "51.040703873285366",
+    "longitude": "-114.09874324394187",
+    "latitude": "51.04064742125478",
     "point": {
       "type": "Point",
       "coordinates": [
-        -114.09867293678913,
-        51.040703873285366
+        -114.09874324394187,
+        51.04064742125478
       ]
     },
     ":@computed_region_4b54_tmc4": "14",
@@ -43127,13 +43127,13 @@
     "licenced_date": "2026-02-04T14:57:34",
     "licenced_expiry_date": "2027-02-04T14:57:34",
     "status_description": "Licensed",
-    "longitude": "-114.10801346957253",
-    "latitude": "51.06531620171191",
+    "longitude": "-114.1080912385513",
+    "latitude": "51.06532224282643",
     "point": {
       "type": "Point",
       "coordinates": [
-        -114.10801346957253,
-        51.06531620171191
+        -114.1080912385513,
+        51.06532224282643
       ]
     },
     ":@computed_region_4b54_tmc4": "7",
