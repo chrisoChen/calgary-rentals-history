@@ -125,6 +125,66 @@
     "status_description": "Licensed"
   },
   {
+    "business_licence_number": "BL304083",
+    "business_id": "16767444",
+    "address": "920B 17 AV SE",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Apartment/condo unit",
+    "licenced_date": "2026-05-07T11:11:21",
+    "licenced_expiry_date": "2027-05-07T11:11:21",
+    "status_description": "Licensed"
+  },
+  {
+    "business_licence_number": "BL270921",
+    "business_id": "16360000",
+    "address": "19G PRESTWICK CV SE",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Single/detached house",
+    "licenced_date": "2025-07-08T22:03:52",
+    "licenced_expiry_date": "2026-07-08T22:03:52",
+    "status_description": "Licensed"
+  },
+  {
+    "business_licence_number": "BL304725",
+    "business_id": "16775066",
+    "address": "#3 307 20 AV SW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Duplex/triplex",
+    "licenced_date": "2026-06-24T09:48:00",
+    "licenced_expiry_date": "2027-06-24T09:48:00",
+    "status_description": "Licensed"
+  },
+  {
+    "business_licence_number": "BL304727",
+    "business_id": "16775082",
+    "address": "#2 307 20 AV SW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Duplex/triplex",
+    "licenced_date": "2026-06-24T10:02:04",
+    "licenced_expiry_date": "2027-06-24T10:02:04",
+    "status_description": "Licensed"
+  },
+  {
+    "business_licence_number": "BL293344",
+    "business_id": "16644718",
+    "address": "18R WALDEN CO SE",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2025-07-23T12:28:21",
+    "licenced_expiry_date": "2026-07-23T12:28:21",
+    "status_description": "Licensed"
+  },
+  {
+    "business_licence_number": "BL300129",
+    "business_id": "16724262",
+    "address": "920A 17 AV SE",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Apartment/condo unit",
+    "licenced_date": "2026-01-30T13:57:56",
+    "licenced_expiry_date": "2027-01-30T13:57:56",
+    "status_description": "Licensed"
+  },
+  {
     "business_licence_number": "BL300206",
     "business_id": "16725038",
     "address": "#433 110 18A ST NW",
@@ -721,16 +781,6 @@
     ":@computed_region_4a3i_ccfj": "4",
     ":@computed_region_kxmf_bzkv": "27",
     ":@computed_region_p8tp_5dkv": "12"
-  },
-  {
-    "business_licence_number": "BL304083",
-    "business_id": "16767444",
-    "address": "920B 17 AV SE",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Apartment/condo unit",
-    "licenced_date": "2026-05-07T11:11:21",
-    "licenced_expiry_date": "2027-05-07T11:11:21",
-    "status_description": "Licensed"
   },
   {
     "business_licence_number": "BL263692",
@@ -6619,16 +6669,6 @@
     ":@computed_region_4a3i_ccfj": "3",
     ":@computed_region_kxmf_bzkv": "135",
     ":@computed_region_p8tp_5dkv": "13"
-  },
-  {
-    "business_licence_number": "BL270921",
-    "business_id": "16360000",
-    "address": "19G PRESTWICK CV SE",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Single/detached house",
-    "licenced_date": "2025-07-08T22:03:52",
-    "licenced_expiry_date": "2026-07-08T22:03:52",
-    "status_description": "Licensed"
   },
   {
     "business_licence_number": "BL297591",
@@ -27559,16 +27599,6 @@
     ":@computed_region_4a3i_ccfj": "1",
     ":@computed_region_kxmf_bzkv": "260",
     ":@computed_region_p8tp_5dkv": "5"
-  },
-  {
-    "business_licence_number": "BL304725",
-    "business_id": "16775066",
-    "address": "#3 307 20 AV SW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Duplex/triplex",
-    "licenced_date": "2026-06-24T09:48:00",
-    "licenced_expiry_date": "2027-06-24T09:48:00",
-    "status_description": "Licensed"
   },
   {
     "business_licence_number": "BL302039",
@@ -68117,16 +68147,6 @@
     ":@computed_region_p8tp_5dkv": "8"
   },
   {
-    "business_licence_number": "BL304727",
-    "business_id": "16775082",
-    "address": "#2 307 20 AV SW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Duplex/triplex",
-    "licenced_date": "2026-06-24T10:02:04",
-    "licenced_expiry_date": "2027-06-24T10:02:04",
-    "status_description": "Licensed"
-  },
-  {
     "business_licence_number": "BL300704",
     "business_id": "16729857",
     "address": "96B SANDSTONE WY NW",
@@ -72495,16 +72515,6 @@
     ":@computed_region_4a3i_ccfj": "1",
     ":@computed_region_kxmf_bzkv": "199",
     ":@computed_region_p8tp_5dkv": "2"
-  },
-  {
-    "business_licence_number": "BL293344",
-    "business_id": "16644718",
-    "address": "18R WALDEN CO SE",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2025-07-23T12:28:21",
-    "licenced_expiry_date": "2026-07-23T12:28:21",
-    "status_description": "Licensed"
   },
   {
     "business_licence_number": "BL279319",
@@ -77864,16 +77874,6 @@
     ":@computed_region_4a3i_ccfj": "2",
     ":@computed_region_kxmf_bzkv": "225",
     ":@computed_region_p8tp_5dkv": "10"
-  },
-  {
-    "business_licence_number": "BL300129",
-    "business_id": "16724262",
-    "address": "920A 17 AV SE",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Apartment/condo unit",
-    "licenced_date": "2026-01-30T13:57:56",
-    "licenced_expiry_date": "2027-01-30T13:57:56",
-    "status_description": "Licensed"
   },
   {
     "business_licence_number": "BL302087",
