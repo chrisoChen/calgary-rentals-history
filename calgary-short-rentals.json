@@ -69,16 +69,6 @@
     ":@computed_region_p8tp_5dkv": "14"
   },
   {
-    "business_licence_number": "BL287459",
-    "business_id": "16573867",
-    "address": "278B WEST RANCH PL SW",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "A bedroom in the home",
-    "licenced_date": "2026-05-01T15:57:57",
-    "licenced_expiry_date": "2027-05-01T15:57:57",
-    "status_description": "Licensed"
-  },
-  {
     "business_licence_number": "BL303761",
     "business_id": "16764003",
     "address": "#2B 707 4A ST NE",
@@ -1503,6 +1493,16 @@
     ":@computed_region_4a3i_ccfj": "4",
     ":@computed_region_kxmf_bzkv": "11",
     ":@computed_region_p8tp_5dkv": "1"
+  },
+  {
+    "business_licence_number": "BL287459",
+    "business_id": "16573867",
+    "address": "278B WEST RANCH PL SW",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "A bedroom in the home",
+    "licenced_date": "2026-05-01T15:57:57",
+    "licenced_expiry_date": "2027-05-01T15:57:57",
+    "status_description": "Licensed"
   },
   {
     "business_licence_number": "BL286758",
