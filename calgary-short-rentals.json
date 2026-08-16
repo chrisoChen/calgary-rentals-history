@@ -115,6 +115,29 @@
     ":@computed_region_p8tp_5dkv": "12"
   },
   {
+    "business_licence_number": "BL294513",
+    "business_id": "16657314",
+    "address": "688B CREEKSTONE CI SW",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2026-08-13T12:35:06",
+    "licenced_expiry_date": "2027-08-13T12:35:06",
+    "status_description": "Licensed",
+    "longitude": "-114.0671021856536",
+    "latitude": "50.86277309842207",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.0671021856536,
+        50.86277309842207
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "6",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "133",
+    ":@computed_region_p8tp_5dkv": "6"
+  },
+  {
     "business_licence_number": "BL246001",
     "business_id": "16054884",
     "address": "4611G 84 ST NW",
@@ -1975,29 +1998,6 @@
     ":@computed_region_4b54_tmc4": "6",
     ":@computed_region_4a3i_ccfj": "1",
     ":@computed_region_kxmf_bzkv": "134",
-    ":@computed_region_p8tp_5dkv": "6"
-  },
-  {
-    "business_licence_number": "BL294513",
-    "business_id": "16657314",
-    "address": "688B CREEKSTONE CI SW",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2026-08-13T12:35:06",
-    "licenced_expiry_date": "2027-08-13T12:35:06",
-    "status_description": "Licensed",
-    "longitude": "-114.0671021856536",
-    "latitude": "50.86277309842207",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.0671021856536,
-        50.86277309842207
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "6",
-    ":@computed_region_4a3i_ccfj": "3",
-    ":@computed_region_kxmf_bzkv": "133",
     ":@computed_region_p8tp_5dkv": "6"
   },
   {
