@@ -159,6 +159,108 @@
     ":@computed_region_p8tp_5dkv": "12"
   },
   {
+    "business_licence_number": "BL301606",
+    "business_id": "16740078",
+    "address": "#2 1609 13 AV SW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "A bedroom in the home",
+    "licenced_date": "2026-04-24T12:35:20",
+    "licenced_expiry_date": "2027-04-24T12:35:20",
+    "status_description": "Licensed",
+    "longitude": "-114.09750589636693",
+    "latitude": "51.04110049127103",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.09750589636693,
+        51.04110049127103
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "14",
+    ":@computed_region_4a3i_ccfj": "1",
+    ":@computed_region_kxmf_bzkv": "136",
+    ":@computed_region_p8tp_5dkv": "2"
+  },
+  {
+    "business_licence_number": "BL294513",
+    "business_id": "16657314",
+    "address": "688B CREEKSTONE CI SW",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2026-08-13T12:35:06",
+    "licenced_expiry_date": "2027-08-13T12:35:06",
+    "status_description": "Licensed",
+    "longitude": "-114.0671021856536",
+    "latitude": "50.86277309842207",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.0671021856536,
+        50.86277309842207
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "6",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "133",
+    ":@computed_region_p8tp_5dkv": "6"
+  },
+  {
+    "business_licence_number": "BL287213",
+    "business_id": "16570921",
+    "address": "3232D 19 AV SE",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Duplex/triplex",
+    "licenced_date": "2026-02-18T10:18:57",
+    "licenced_expiry_date": "2027-02-18T10:18:57",
+    "status_description": "Licensed"
+  },
+  {
+    "business_licence_number": "BL295349",
+    "business_id": "16667180",
+    "address": "#627 110 18A ST NW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Apartment/condo unit",
+    "licenced_date": "2025-09-15T11:41:47",
+    "licenced_expiry_date": "2026-09-15T11:41:47",
+    "status_description": "Licensed",
+    "longitude": "-114.10318325741189",
+    "latitude": "51.05279859474316",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.10318325741189,
+        51.05279859474316
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "7",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "280",
+    ":@computed_region_p8tp_5dkv": "7"
+  },
+  {
+    "business_licence_number": "BL295750",
+    "business_id": "16671984",
+    "address": "158B SILVERTON GLEN CR SW",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2025-09-15T13:13:09",
+    "licenced_expiry_date": "2026-09-15T13:13:09",
+    "status_description": "Licensed",
+    "longitude": "-114.06063731099204",
+    "latitude": "50.874052882683216",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.06063731099204,
+        50.874052882683216
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "6",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "133",
+    ":@computed_region_p8tp_5dkv": "6"
+  },
+  {
     "business_licence_number": "BL302579",
     "business_id": "16750614",
     "address": "36R HARVEST ROSE CI NE",
@@ -249,16 +351,6 @@
     ":@computed_region_4a3i_ccfj": "3",
     ":@computed_region_kxmf_bzkv": "231",
     ":@computed_region_p8tp_5dkv": "8"
-  },
-  {
-    "business_licence_number": "BL287213",
-    "business_id": "16570921",
-    "address": "3232D 19 AV SE",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Duplex/triplex",
-    "licenced_date": "2026-02-18T10:18:57",
-    "licenced_expiry_date": "2027-02-18T10:18:57",
-    "status_description": "Licensed"
   },
   {
     "business_licence_number": "BL302309",
@@ -2029,29 +2121,6 @@
     ":@computed_region_4b54_tmc4": "14",
     ":@computed_region_4a3i_ccfj": "1",
     ":@computed_region_kxmf_bzkv": "260",
-    ":@computed_region_p8tp_5dkv": "2"
-  },
-  {
-    "business_licence_number": "BL301606",
-    "business_id": "16740078",
-    "address": "#2 1609 13 AV SW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "A bedroom in the home",
-    "licenced_date": "2026-04-24T12:35:20",
-    "licenced_expiry_date": "2027-04-24T12:35:20",
-    "status_description": "Licensed",
-    "longitude": "-114.09750589636693",
-    "latitude": "51.04110049127103",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.09750589636693,
-        51.04110049127103
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "14",
-    ":@computed_region_4a3i_ccfj": "1",
-    ":@computed_region_kxmf_bzkv": "136",
     ":@computed_region_p8tp_5dkv": "2"
   },
   {
@@ -7437,29 +7506,6 @@
     ":@computed_region_p8tp_5dkv": "5"
   },
   {
-    "business_licence_number": "BL294513",
-    "business_id": "16657314",
-    "address": "688B CREEKSTONE CI SW",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2026-08-13T12:35:06",
-    "licenced_expiry_date": "2027-08-13T12:35:06",
-    "status_description": "Licensed",
-    "longitude": "-114.0671021856536",
-    "latitude": "50.86277309842207",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.0671021856536,
-        50.86277309842207
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "6",
-    ":@computed_region_4a3i_ccfj": "3",
-    ":@computed_region_kxmf_bzkv": "133",
-    ":@computed_region_p8tp_5dkv": "6"
-  },
-  {
     "business_licence_number": "BL300021",
     "business_id": "16723249",
     "address": "#606 1010 6 ST SW",
@@ -10657,29 +10703,6 @@
     ":@computed_region_p8tp_5dkv": "2"
   },
   {
-    "business_licence_number": "BL295349",
-    "business_id": "16667180",
-    "address": "#627 110 18A ST NW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Apartment/condo unit",
-    "licenced_date": "2025-09-15T11:41:47",
-    "licenced_expiry_date": "2026-09-15T11:41:47",
-    "status_description": "Licensed",
-    "longitude": "-114.10318325741189",
-    "latitude": "51.05279859474316",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.10318325741189,
-        51.05279859474316
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "7",
-    ":@computed_region_4a3i_ccfj": "2",
-    ":@computed_region_kxmf_bzkv": "280",
-    ":@computed_region_p8tp_5dkv": "7"
-  },
-  {
     "business_licence_number": "BL294078",
     "business_id": "16651945",
     "address": "179B CREEKVIEW GD SW",
@@ -11920,29 +11943,6 @@
     ":@computed_region_4a3i_ccfj": "1",
     ":@computed_region_kxmf_bzkv": "260",
     ":@computed_region_p8tp_5dkv": "5"
-  },
-  {
-    "business_licence_number": "BL295750",
-    "business_id": "16671984",
-    "address": "158B SILVERTON GLEN CR SW",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2025-09-15T13:13:09",
-    "licenced_expiry_date": "2026-09-15T13:13:09",
-    "status_description": "Licensed",
-    "longitude": "-114.06063731099204",
-    "latitude": "50.874052882683216",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.06063731099204,
-        50.874052882683216
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "6",
-    ":@computed_region_4a3i_ccfj": "3",
-    ":@computed_region_kxmf_bzkv": "133",
-    ":@computed_region_p8tp_5dkv": "6"
   },
   {
     "business_licence_number": "BL298108",
