@@ -21,128 +21,6 @@
     ":@computed_region_p8tp_5dkv": "2"
   },
   {
-    "business_licence_number": "BL295074",
-    "business_id": "16663866",
-    "address": "#616 400 BELMONT ST SW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Townhouse",
-    "licenced_date": "2026-08-14T16:16:37",
-    "licenced_expiry_date": "2027-08-14T16:16:37",
-    "status_description": "Licensed",
-    "longitude": "-114.0598009617764",
-    "latitude": "50.86975936576587",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.0598009617764,
-        50.86975936576587
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "6",
-    ":@computed_region_4a3i_ccfj": "3",
-    ":@computed_region_kxmf_bzkv": "113",
-    ":@computed_region_p8tp_5dkv": "6"
-  },
-  {
-    "business_licence_number": "BL294079",
-    "business_id": "16651952",
-    "address": "21290 SHERIFF KING ST SW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Duplex/triplex",
-    "licenced_date": "2026-08-15T14:39:14",
-    "licenced_expiry_date": "2027-08-15T14:39:14",
-    "status_description": "Licensed",
-    "longitude": "-114.07047334881537",
-    "latitude": "50.86035533202438",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.07047334881537,
-        50.86035533202438
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "6",
-    ":@computed_region_4a3i_ccfj": "3",
-    ":@computed_region_kxmf_bzkv": "133",
-    ":@computed_region_p8tp_5dkv": "6"
-  },
-  {
-    "business_licence_number": "BL287213",
-    "business_id": "16570921",
-    "address": "3232D 19 AV SE",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Duplex/triplex",
-    "licenced_date": "2026-02-18T10:18:57",
-    "licenced_expiry_date": "2027-02-18T10:18:57",
-    "status_description": "Licensed"
-  },
-  {
-    "business_licence_number": "BL290697",
-    "business_id": "16614208",
-    "address": "2419B 37 ST SW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2025-09-15T12:38:59",
-    "licenced_expiry_date": "2026-09-15T12:38:59",
-    "status_description": "Licensed",
-    "longitude": "-114.14153601578037",
-    "latitude": "51.03237840404015",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.14153601578037,
-        51.03237840404015
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "1",
-    ":@computed_region_4a3i_ccfj": "1",
-    ":@computed_region_kxmf_bzkv": "41",
-    ":@computed_region_p8tp_5dkv": "14"
-  },
-  {
-    "business_licence_number": "BL295185",
-    "business_id": "16665440",
-    "address": "82B CORNERSTONE RD NE",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2025-09-15T15:24:02",
-    "licenced_expiry_date": "2026-09-15T15:24:02",
-    "status_description": "Licensed",
-    "longitude": "-113.93929736703333",
-    "latitude": "51.15946387064989",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -113.93929736703333,
-        51.15946387064989
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "11",
-    ":@computed_region_4a3i_ccfj": "4",
-    ":@computed_region_kxmf_bzkv": "11",
-    ":@computed_region_p8tp_5dkv": "1"
-  },
-  {
-    "business_licence_number": "BL232996",
-    "business_id": "15890247",
-    "address": "1733 28 ST SW",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Single/detached house",
-    "licenced_date": "2024-03-07T15:23:25",
-    "licenced_expiry_date": "2025-03-07T15:23:25",
-    "status_description": "Licensed"
-  },
-  {
-    "business_licence_number": "BL287459",
-    "business_id": "16573867",
-    "address": "278B WEST RANCH PL SW",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "A bedroom in the home",
-    "licenced_date": "2026-05-01T15:57:57",
-    "licenced_expiry_date": "2027-05-01T15:57:57",
-    "status_description": "Licensed"
-  },
-  {
     "business_licence_number": "BL301992",
     "business_id": "16744153",
     "address": "612R MARIPOSA PL NE",
@@ -279,6 +157,16 @@
     ":@computed_region_4a3i_ccfj": "1",
     ":@computed_region_kxmf_bzkv": "181",
     ":@computed_region_p8tp_5dkv": "2"
+  },
+  {
+    "business_licence_number": "BL287213",
+    "business_id": "16570921",
+    "address": "3232D 19 AV SE",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Duplex/triplex",
+    "licenced_date": "2026-02-18T10:18:57",
+    "licenced_expiry_date": "2027-02-18T10:18:57",
+    "status_description": "Licensed"
   },
   {
     "business_licence_number": "BL297218",
@@ -2004,6 +1892,29 @@
     ":@computed_region_4a3i_ccfj": "1",
     ":@computed_region_kxmf_bzkv": "260",
     ":@computed_region_p8tp_5dkv": "2"
+  },
+  {
+    "business_licence_number": "BL295074",
+    "business_id": "16663866",
+    "address": "#616 400 BELMONT ST SW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Townhouse",
+    "licenced_date": "2026-08-14T16:16:37",
+    "licenced_expiry_date": "2027-08-14T16:16:37",
+    "status_description": "Licensed",
+    "longitude": "-114.0598009617764",
+    "latitude": "50.86975936576587",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.0598009617764,
+        50.86975936576587
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "6",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "113",
+    ":@computed_region_p8tp_5dkv": "6"
   },
   {
     "business_licence_number": "BL303956",
@@ -7411,6 +7322,29 @@
     ":@computed_region_p8tp_5dkv": "10"
   },
   {
+    "business_licence_number": "BL294079",
+    "business_id": "16651952",
+    "address": "21290 SHERIFF KING ST SW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Duplex/triplex",
+    "licenced_date": "2026-08-15T14:39:14",
+    "licenced_expiry_date": "2027-08-15T14:39:14",
+    "status_description": "Licensed",
+    "longitude": "-114.07047334881537",
+    "latitude": "50.86035533202438",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.07047334881537,
+        50.86035533202438
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "6",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "133",
+    ":@computed_region_p8tp_5dkv": "6"
+  },
+  {
     "business_licence_number": "BL299718",
     "business_id": "16719866",
     "address": "#313 260 ROWLEY WY NW",
@@ -10608,6 +10542,29 @@
     ":@computed_region_p8tp_5dkv": "5"
   },
   {
+    "business_licence_number": "BL290697",
+    "business_id": "16614208",
+    "address": "2419B 37 ST SW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2025-09-15T12:38:59",
+    "licenced_expiry_date": "2026-09-15T12:38:59",
+    "status_description": "Licensed",
+    "longitude": "-114.14153601578037",
+    "latitude": "51.03237840404015",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.14153601578037,
+        51.03237840404015
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "1",
+    ":@computed_region_4a3i_ccfj": "1",
+    ":@computed_region_kxmf_bzkv": "41",
+    ":@computed_region_p8tp_5dkv": "14"
+  },
+  {
     "business_licence_number": "BL304727",
     "business_id": "16775082",
     "address": "#2 307 20 AV SW",
@@ -11825,6 +11782,29 @@
     ":@computed_region_4a3i_ccfj": "2",
     ":@computed_region_kxmf_bzkv": "246",
     ":@computed_region_p8tp_5dkv": "12"
+  },
+  {
+    "business_licence_number": "BL295185",
+    "business_id": "16665440",
+    "address": "82B CORNERSTONE RD NE",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2025-09-15T15:24:02",
+    "licenced_expiry_date": "2026-09-15T15:24:02",
+    "status_description": "Licensed",
+    "longitude": "-113.93929736703333",
+    "latitude": "51.15946387064989",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -113.93929736703333,
+        51.15946387064989
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "11",
+    ":@computed_region_4a3i_ccfj": "4",
+    ":@computed_region_kxmf_bzkv": "11",
+    ":@computed_region_p8tp_5dkv": "1"
   },
   {
     "business_licence_number": "BL303019",
@@ -13621,6 +13601,16 @@
     ":@computed_region_p8tp_5dkv": "6"
   },
   {
+    "business_licence_number": "BL232996",
+    "business_id": "15890247",
+    "address": "1733 28 ST SW",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Single/detached house",
+    "licenced_date": "2024-03-07T15:23:25",
+    "licenced_expiry_date": "2025-03-07T15:23:25",
+    "status_description": "Licensed"
+  },
+  {
     "business_licence_number": "BL291990",
     "business_id": "16629644",
     "address": "1024 8 AV SE",
@@ -14976,6 +14966,16 @@
     ":@computed_region_4a3i_ccfj": "3",
     ":@computed_region_kxmf_bzkv": "28",
     ":@computed_region_p8tp_5dkv": "11"
+  },
+  {
+    "business_licence_number": "BL287459",
+    "business_id": "16573867",
+    "address": "278B WEST RANCH PL SW",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "A bedroom in the home",
+    "licenced_date": "2026-05-01T15:57:57",
+    "licenced_expiry_date": "2027-05-01T15:57:57",
+    "status_description": "Licensed"
   },
   {
     "business_licence_number": "BL294265",
