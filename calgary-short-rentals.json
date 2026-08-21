@@ -115,118 +115,6 @@
     ":@computed_region_p8tp_5dkv": "5"
   },
   {
-    "business_licence_number": "BL295654",
-    "business_id": "16671117",
-    "address": "674B WOLF WILLOW BV SE",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Duplex/triplex",
-    "licenced_date": "2025-09-04T13:10:38",
-    "licenced_expiry_date": "2026-09-04T13:10:38",
-    "status_description": "Licensed",
-    "longitude": "-113.99894528841503",
-    "latitude": "50.869107243633486",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -113.99894528841503,
-        50.869107243633486
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "6",
-    ":@computed_region_4a3i_ccfj": "3",
-    ":@computed_region_kxmf_bzkv": "227",
-    ":@computed_region_p8tp_5dkv": "13"
-  },
-  {
-    "business_licence_number": "BL294163",
-    "business_id": "16652836",
-    "address": "230B MAGNOLIA WY SE",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2026-08-21T16:04:18",
-    "licenced_expiry_date": "2027-08-21T16:04:18",
-    "status_description": "Licensed",
-    "longitude": "-113.90791005215415",
-    "latitude": "50.88758760105491",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -113.90791005215415,
-        50.88758760105491
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "4",
-    ":@computed_region_4a3i_ccfj": "3",
-    ":@computed_region_kxmf_bzkv": "116",
-    ":@computed_region_p8tp_5dkv": "8"
-  },
-  {
-    "business_licence_number": "BL287459",
-    "business_id": "16573867",
-    "address": "278B WEST RANCH PL SW",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "A bedroom in the home",
-    "licenced_date": "2026-05-01T15:57:57",
-    "licenced_expiry_date": "2027-05-01T15:57:57",
-    "status_description": "Licensed"
-  },
-  {
-    "business_licence_number": "BL290814",
-    "business_id": "16615460",
-    "address": "154R CARRINGWOOD CL NW",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2025-08-20T15:14:10",
-    "licenced_expiry_date": "2026-08-20T15:14:10",
-    "status_description": "Licensed",
-    "longitude": "-114.08931010108398",
-    "latitude": "51.188274564691454",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.08931010108398,
-        51.188274564691454
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "11",
-    ":@computed_region_4a3i_ccfj": "2",
-    ":@computed_region_kxmf_bzkv": "242",
-    ":@computed_region_p8tp_5dkv": "12"
-  },
-  {
-    "business_licence_number": "BL292164",
-    "business_id": "16631236",
-    "address": "312B LIVINGSTON VW NW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2025-08-20T14:11:55",
-    "licenced_expiry_date": "2026-08-20T14:11:55",
-    "status_description": "Licensed",
-    "longitude": "-114.07669568109218",
-    "latitude": "51.190307861111954",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.07669568109218,
-        51.190307861111954
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "11",
-    ":@computed_region_4a3i_ccfj": "2",
-    ":@computed_region_kxmf_bzkv": "246",
-    ":@computed_region_p8tp_5dkv": "12"
-  },
-  {
-    "business_licence_number": "BL304083",
-    "business_id": "16767444",
-    "address": "920B 17 AV SE",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Apartment/condo unit",
-    "licenced_date": "2026-05-07T11:11:21",
-    "licenced_expiry_date": "2027-05-07T11:11:21",
-    "status_description": "Licensed"
-  },
-  {
     "business_licence_number": "BL274507",
     "business_id": "16409443",
     "address": "313 HENDON DR NW",
@@ -340,6 +228,16 @@
     ":@computed_region_4a3i_ccfj": "2",
     ":@computed_region_kxmf_bzkv": "193",
     ":@computed_region_p8tp_5dkv": "9"
+  },
+  {
+    "business_licence_number": "BL287459",
+    "business_id": "16573867",
+    "address": "278B WEST RANCH PL SW",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "A bedroom in the home",
+    "licenced_date": "2026-05-01T15:57:57",
+    "licenced_expiry_date": "2027-05-01T15:57:57",
+    "status_description": "Licensed"
   },
   {
     "business_licence_number": "BL254924",
@@ -2088,6 +1986,29 @@
     ":@computed_region_4a3i_ccfj": "4",
     ":@computed_region_kxmf_bzkv": "246",
     ":@computed_region_p8tp_5dkv": "12"
+  },
+  {
+    "business_licence_number": "BL295654",
+    "business_id": "16671117",
+    "address": "674B WOLF WILLOW BV SE",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Duplex/triplex",
+    "licenced_date": "2025-09-04T13:10:38",
+    "licenced_expiry_date": "2026-09-04T13:10:38",
+    "status_description": "Licensed",
+    "longitude": "-113.99894528841503",
+    "latitude": "50.869107243633486",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -113.99894528841503,
+        50.869107243633486
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "6",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "227",
+    ":@computed_region_p8tp_5dkv": "13"
   },
   {
     "business_licence_number": "BL277024",
@@ -7491,6 +7412,29 @@
     ":@computed_region_p8tp_5dkv": "10"
   },
   {
+    "business_licence_number": "BL294163",
+    "business_id": "16652836",
+    "address": "230B MAGNOLIA WY SE",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2026-08-21T16:04:18",
+    "licenced_expiry_date": "2027-08-21T16:04:18",
+    "status_description": "Licensed",
+    "longitude": "-113.90791005215415",
+    "latitude": "50.88758760105491",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -113.90791005215415,
+        50.88758760105491
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "4",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "116",
+    ":@computed_region_p8tp_5dkv": "8"
+  },
+  {
     "business_licence_number": "BL268610",
     "business_id": "16329831",
     "address": "68B AMBLETON ST NW",
@@ -10665,6 +10609,29 @@
     ":@computed_region_p8tp_5dkv": "4"
   },
   {
+    "business_licence_number": "BL290814",
+    "business_id": "16615460",
+    "address": "154R CARRINGWOOD CL NW",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2025-08-20T15:14:10",
+    "licenced_expiry_date": "2026-08-20T15:14:10",
+    "status_description": "Licensed",
+    "longitude": "-114.08931010108398",
+    "latitude": "51.188274564691454",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.08931010108398,
+        51.188274564691454
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "11",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "242",
+    ":@computed_region_p8tp_5dkv": "12"
+  },
+  {
     "business_licence_number": "BL281509",
     "business_id": "16502445",
     "address": "154B HOLLY ST NW",
@@ -11907,6 +11874,29 @@
     ":@computed_region_p8tp_5dkv": "2"
   },
   {
+    "business_licence_number": "BL292164",
+    "business_id": "16631236",
+    "address": "312B LIVINGSTON VW NW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2025-08-20T14:11:55",
+    "licenced_expiry_date": "2026-08-20T14:11:55",
+    "status_description": "Licensed",
+    "longitude": "-114.07669568109218",
+    "latitude": "51.190307861111954",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.07669568109218,
+        51.190307861111954
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "11",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "246",
+    ":@computed_region_p8tp_5dkv": "12"
+  },
+  {
     "business_licence_number": "BL298561",
     "business_id": "16705329",
     "address": "54B STARLING BV NW",
@@ -12756,6 +12746,16 @@
     ":@computed_region_4a3i_ccfj": "2",
     ":@computed_region_kxmf_bzkv": "253",
     ":@computed_region_p8tp_5dkv": "9"
+  },
+  {
+    "business_licence_number": "BL304083",
+    "business_id": "16767444",
+    "address": "920B 17 AV SE",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Apartment/condo unit",
+    "licenced_date": "2026-05-07T11:11:21",
+    "licenced_expiry_date": "2027-05-07T11:11:21",
+    "status_description": "Licensed"
   },
   {
     "business_licence_number": "BL290425",
