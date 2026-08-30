@@ -1,94 +1,5 @@
 [
   {
-    "business_licence_number": "BL272356",
-    "business_id": "16380800",
-    "address": "#1306 135 13 AV SW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Apartment/condo unit",
-    "licenced_date": "2026-08-23T20:27:30",
-    "licenced_expiry_date": "2027-08-23T20:27:30",
-    "status_description": "Licensed",
-    "longitude": "-114.06563572621151",
-    "latitude": "51.04030509942148",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.06563572621151,
-        51.04030509942148
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "14",
-    ":@computed_region_4a3i_ccfj": "1",
-    ":@computed_region_kxmf_bzkv": "260",
-    ":@computed_region_p8tp_5dkv": "5"
-  },
-  {
-    "business_licence_number": "BL304083",
-    "business_id": "16767444",
-    "address": "920B 17 AV SE",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Apartment/condo unit",
-    "licenced_date": "2026-05-07T11:11:21",
-    "licenced_expiry_date": "2027-05-07T11:11:21",
-    "status_description": "Licensed"
-  },
-  {
-    "business_licence_number": "BL296511",
-    "business_id": "16680852",
-    "address": "#2407 1010 6 ST SW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Apartment/condo unit",
-    "licenced_date": "2025-09-23T12:26:11",
-    "licenced_expiry_date": "2026-09-23T12:26:11",
-    "status_description": "Licensed",
-    "longitude": "-114.07597205968116",
-    "latitude": "51.04338436778838",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.07597205968116,
-        51.04338436778838
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "14",
-    ":@computed_region_4a3i_ccfj": "1",
-    ":@computed_region_kxmf_bzkv": "260",
-    ":@computed_region_p8tp_5dkv": "2"
-  },
-  {
-    "business_licence_number": "BL295948",
-    "business_id": "16674285",
-    "address": "227 CRANBROOK CI SE",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Single/detached house",
-    "licenced_date": "2025-09-18T13:14:43",
-    "licenced_expiry_date": "2026-09-18T13:14:43",
-    "status_description": "Licensed",
-    "longitude": "-113.98106468261751",
-    "latitude": "50.866351327199254",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -113.98106468261751,
-        50.866351327199254
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "4",
-    ":@computed_region_4a3i_ccfj": "3",
-    ":@computed_region_kxmf_bzkv": "294",
-    ":@computed_region_p8tp_5dkv": "8"
-  },
-  {
-    "business_licence_number": "BL300131",
-    "business_id": "16724288",
-    "address": "1147 9 ST SE",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Apartment/condo unit",
-    "licenced_date": "2026-01-22T12:46:18",
-    "licenced_expiry_date": "2027-01-22T12:46:18",
-    "status_description": "Licensed"
-  },
-  {
     "business_licence_number": "BL302360",
     "business_id": "16748139",
     "address": "#11 181 ROCKYLEDGE VW NW",
@@ -179,6 +90,16 @@
     ":@computed_region_4a3i_ccfj": "1",
     ":@computed_region_kxmf_bzkv": "128",
     ":@computed_region_p8tp_5dkv": "14"
+  },
+  {
+    "business_licence_number": "BL304083",
+    "business_id": "16767444",
+    "address": "920B 17 AV SE",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Apartment/condo unit",
+    "licenced_date": "2026-05-07T11:11:21",
+    "licenced_expiry_date": "2027-05-07T11:11:21",
+    "status_description": "Licensed"
   },
   {
     "business_licence_number": "BL302583",
@@ -1950,6 +1871,29 @@
     ":@computed_region_4a3i_ccfj": "1",
     ":@computed_region_kxmf_bzkv": "18",
     ":@computed_region_p8tp_5dkv": "2"
+  },
+  {
+    "business_licence_number": "BL272356",
+    "business_id": "16380800",
+    "address": "#1306 135 13 AV SW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Apartment/condo unit",
+    "licenced_date": "2026-08-23T20:27:30",
+    "licenced_expiry_date": "2027-08-23T20:27:30",
+    "status_description": "Licensed",
+    "longitude": "-114.06563572621151",
+    "latitude": "51.04030509942148",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.06563572621151,
+        51.04030509942148
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "14",
+    ":@computed_region_4a3i_ccfj": "1",
+    ":@computed_region_kxmf_bzkv": "260",
+    ":@computed_region_p8tp_5dkv": "5"
   },
   {
     "business_licence_number": "BL276175",
@@ -7357,6 +7301,29 @@
     ":@computed_region_p8tp_5dkv": "11"
   },
   {
+    "business_licence_number": "BL296511",
+    "business_id": "16680852",
+    "address": "#2407 1010 6 ST SW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Apartment/condo unit",
+    "licenced_date": "2025-09-23T12:26:11",
+    "licenced_expiry_date": "2026-09-23T12:26:11",
+    "status_description": "Licensed",
+    "longitude": "-114.07597205968116",
+    "latitude": "51.04338436778838",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.07597205968116,
+        51.04338436778838
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "14",
+    ":@computed_region_4a3i_ccfj": "1",
+    ":@computed_region_kxmf_bzkv": "260",
+    ":@computed_region_p8tp_5dkv": "2"
+  },
+  {
     "business_licence_number": "BL301422",
     "business_id": "16738601",
     "address": "21R CRANLEIGH HT SE",
@@ -8390,6 +8357,29 @@
     ":@computed_region_4a3i_ccfj": "4",
     ":@computed_region_kxmf_bzkv": "27",
     ":@computed_region_p8tp_5dkv": "12"
+  },
+  {
+    "business_licence_number": "BL295948",
+    "business_id": "16674285",
+    "address": "227 CRANBROOK CI SE",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Single/detached house",
+    "licenced_date": "2025-09-18T13:14:43",
+    "licenced_expiry_date": "2026-09-18T13:14:43",
+    "status_description": "Licensed",
+    "longitude": "-113.98106468261751",
+    "latitude": "50.866351327199254",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -113.98106468261751,
+        50.866351327199254
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "4",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "294",
+    ":@computed_region_p8tp_5dkv": "8"
   },
   {
     "business_licence_number": "BL302866",
@@ -12689,6 +12679,16 @@
     ":@computed_region_4a3i_ccfj": "1",
     ":@computed_region_kxmf_bzkv": "198",
     ":@computed_region_p8tp_5dkv": "2"
+  },
+  {
+    "business_licence_number": "BL300131",
+    "business_id": "16724288",
+    "address": "1147 9 ST SE",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Apartment/condo unit",
+    "licenced_date": "2026-01-22T12:46:18",
+    "licenced_expiry_date": "2027-01-22T12:46:18",
+    "status_description": "Licensed"
   },
   {
     "business_licence_number": "BL278444",
