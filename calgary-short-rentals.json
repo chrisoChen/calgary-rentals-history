@@ -69,6 +69,85 @@
     ":@computed_region_p8tp_5dkv": "2"
   },
   {
+    "business_licence_number": "BL293614",
+    "business_id": "16647513",
+    "address": "14890 24 ST NW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Single/detached house",
+    "licenced_date": "2025-09-17T15:37:58",
+    "licenced_expiry_date": "2026-09-17T15:37:58",
+    "status_description": "Licensed",
+    "longitude": "-114.11749183350958",
+    "latitude": "51.18733148910008",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.11749183350958,
+        51.18733148910008
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "3",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "288",
+    ":@computed_region_p8tp_5dkv": "10"
+  },
+  {
+    "business_licence_number": "BL260010",
+    "business_id": "16206732",
+    "address": "2735 1 AV NW",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Coach/lane house",
+    "licenced_date": "2025-09-18T15:48:51",
+    "licenced_expiry_date": "2026-09-18T15:48:51",
+    "status_description": "Licensed",
+    "longitude": "-114.12491573158695",
+    "latitude": "51.054729058688544",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.12491573158695,
+        51.054729058688544
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "7",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "280",
+    ":@computed_region_p8tp_5dkv": "7"
+  },
+  {
+    "business_licence_number": "BL284114",
+    "business_id": "16533960",
+    "address": "2916 7 AV NW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Single/detached house",
+    "licenced_date": "2025-12-12T12:35:53",
+    "licenced_expiry_date": "2026-12-12T12:35:53",
+    "status_description": "Licensed"
+  },
+  {
+    "business_licence_number": "BL296648",
+    "business_id": "16682700",
+    "address": "186B BARTLETT CR SE",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2025-09-29T07:21:33",
+    "licenced_expiry_date": "2026-09-29T07:21:33",
+    "status_description": "Licensed",
+    "longitude": "-113.92752839972422",
+    "latitude": "50.88390360653748",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -113.92752839972422,
+        50.88390360653748
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "4",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "222",
+    ":@computed_region_p8tp_5dkv": "8"
+  },
+  {
     "business_licence_number": "BL302837",
     "business_id": "16753782",
     "address": "68 AMBLEHURST GD NW",
@@ -136,29 +215,6 @@
     ":@computed_region_4a3i_ccfj": "2",
     ":@computed_region_kxmf_bzkv": "125",
     ":@computed_region_p8tp_5dkv": "4"
-  },
-  {
-    "business_licence_number": "BL260010",
-    "business_id": "16206732",
-    "address": "2735 1 AV NW",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Coach/lane house",
-    "licenced_date": "2025-09-18T15:48:51",
-    "licenced_expiry_date": "2026-09-18T15:48:51",
-    "status_description": "Licensed",
-    "longitude": "-114.12491573158695",
-    "latitude": "51.054729058688544",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.12491573158695,
-        51.054729058688544
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "7",
-    ":@computed_region_4a3i_ccfj": "2",
-    ":@computed_region_kxmf_bzkv": "280",
-    ":@computed_region_p8tp_5dkv": "7"
   },
   {
     "business_licence_number": "BL283946",
@@ -1952,29 +2008,6 @@
     ":@computed_region_4b54_tmc4": "3",
     ":@computed_region_4a3i_ccfj": "2",
     ":@computed_region_kxmf_bzkv": "292",
-    ":@computed_region_p8tp_5dkv": "10"
-  },
-  {
-    "business_licence_number": "BL293614",
-    "business_id": "16647513",
-    "address": "14890 24 ST NW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Single/detached house",
-    "licenced_date": "2025-09-17T15:37:58",
-    "licenced_expiry_date": "2026-09-17T15:37:58",
-    "status_description": "Licensed",
-    "longitude": "-114.11749183350958",
-    "latitude": "51.18733148910008",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.11749183350958,
-        51.18733148910008
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "3",
-    ":@computed_region_4a3i_ccfj": "2",
-    ":@computed_region_kxmf_bzkv": "288",
     ":@computed_region_p8tp_5dkv": "10"
   },
   {
@@ -8395,16 +8428,6 @@
     ":@computed_region_p8tp_5dkv": "14"
   },
   {
-    "business_licence_number": "BL284114",
-    "business_id": "16533960",
-    "address": "2916 7 AV NW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Single/detached house",
-    "licenced_date": "2025-12-12T12:35:53",
-    "licenced_expiry_date": "2026-12-12T12:35:53",
-    "status_description": "Licensed"
-  },
-  {
     "business_licence_number": "BL303154",
     "business_id": "16756991",
     "address": "126 EVANSFIELD RI NW",
@@ -10563,29 +10586,6 @@
     ":@computed_region_4a3i_ccfj": "2",
     ":@computed_region_kxmf_bzkv": "244",
     ":@computed_region_p8tp_5dkv": "10"
-  },
-  {
-    "business_licence_number": "BL296648",
-    "business_id": "16682700",
-    "address": "186B BARTLETT CR SE",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2025-09-29T07:21:33",
-    "licenced_expiry_date": "2026-09-29T07:21:33",
-    "status_description": "Licensed",
-    "longitude": "-113.92752839972422",
-    "latitude": "50.88390360653748",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -113.92752839972422,
-        50.88390360653748
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "4",
-    ":@computed_region_4a3i_ccfj": "3",
-    ":@computed_region_kxmf_bzkv": "222",
-    ":@computed_region_p8tp_5dkv": "8"
   },
   {
     "business_licence_number": "BL302421",
