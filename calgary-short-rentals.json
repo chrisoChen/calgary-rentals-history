@@ -159,108 +159,6 @@
     ":@computed_region_p8tp_5dkv": "12"
   },
   {
-    "business_licence_number": "BL295862",
-    "business_id": "16673246",
-    "address": "254 CARRINGTON GA NW",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Townhouse",
-    "licenced_date": "2025-09-18T17:25:21",
-    "licenced_expiry_date": "2026-09-18T17:25:21",
-    "status_description": "Licensed",
-    "longitude": "-114.07469104477818",
-    "latitude": "51.179985550960396",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.07469104477818,
-        51.179985550960396
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "11",
-    ":@computed_region_4a3i_ccfj": "2",
-    ":@computed_region_kxmf_bzkv": "242",
-    ":@computed_region_p8tp_5dkv": "12"
-  },
-  {
-    "business_licence_number": "BL293577",
-    "business_id": "16646978",
-    "address": "327 LIVINGSTON VW NW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Single/detached house",
-    "licenced_date": "2026-09-16T15:59:58",
-    "licenced_expiry_date": "2027-09-16T15:59:58",
-    "status_description": "Licensed",
-    "longitude": "-114.07732396397704",
-    "latitude": "51.189939713723106",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.07732396397704,
-        51.189939713723106
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "11",
-    ":@computed_region_4a3i_ccfj": "2",
-    ":@computed_region_kxmf_bzkv": "246",
-    ":@computed_region_p8tp_5dkv": "12"
-  },
-  {
-    "business_licence_number": "BL270921",
-    "business_id": "16360000",
-    "address": "19G PRESTWICK CV SE",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Single/detached house",
-    "licenced_date": "2026-07-08T22:03:52",
-    "licenced_expiry_date": "2027-07-08T22:03:52",
-    "status_description": "Licensed"
-  },
-  {
-    "business_licence_number": "BL296132",
-    "business_id": "16676231",
-    "address": "4635B 72 ST NW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2025-09-23T10:02:46",
-    "licenced_expiry_date": "2026-09-23T10:02:46",
-    "status_description": "Licensed",
-    "longitude": "-114.19721029051534",
-    "latitude": "51.09342221310257",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.19721029051534,
-        51.09342221310257
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "13",
-    ":@computed_region_4a3i_ccfj": "2",
-    ":@computed_region_kxmf_bzkv": "149",
-    ":@computed_region_p8tp_5dkv": "9"
-  },
-  {
-    "business_licence_number": "BL296349",
-    "business_id": "16678690",
-    "address": "130B EVANSCREST RD NW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2025-09-23T12:01:06",
-    "licenced_expiry_date": "2026-09-23T12:01:06",
-    "status_description": "Licensed",
-    "longitude": "-114.1101014893324",
-    "latitude": "51.18057543725236",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.1101014893324,
-        51.18057543725236
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "3",
-    ":@computed_region_4a3i_ccfj": "2",
-    ":@computed_region_kxmf_bzkv": "237",
-    ":@computed_region_p8tp_5dkv": "10"
-  },
-  {
     "business_licence_number": "BL303031",
     "business_id": "16755670",
     "address": "145 PANORAMA HILLS VW NW",
@@ -351,6 +249,16 @@
     ":@computed_region_4a3i_ccfj": "3",
     ":@computed_region_kxmf_bzkv": "133",
     ":@computed_region_p8tp_5dkv": "6"
+  },
+  {
+    "business_licence_number": "BL270921",
+    "business_id": "16360000",
+    "address": "19G PRESTWICK CV SE",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Single/detached house",
+    "licenced_date": "2026-07-08T22:03:52",
+    "licenced_expiry_date": "2027-07-08T22:03:52",
+    "status_description": "Licensed"
   },
   {
     "business_licence_number": "BL303541",
@@ -2122,6 +2030,29 @@
     ":@computed_region_4a3i_ccfj": "2",
     ":@computed_region_kxmf_bzkv": "273",
     ":@computed_region_p8tp_5dkv": "4"
+  },
+  {
+    "business_licence_number": "BL295862",
+    "business_id": "16673246",
+    "address": "254 CARRINGTON GA NW",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Townhouse",
+    "licenced_date": "2025-09-18T17:25:21",
+    "licenced_expiry_date": "2026-09-18T17:25:21",
+    "status_description": "Licensed",
+    "longitude": "-114.07469104477818",
+    "latitude": "51.179985550960396",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.07469104477818,
+        51.179985550960396
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "11",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "242",
+    ":@computed_region_p8tp_5dkv": "12"
   },
   {
     "business_licence_number": "BL296645",
@@ -7529,6 +7460,29 @@
     ":@computed_region_p8tp_5dkv": "2"
   },
   {
+    "business_licence_number": "BL293577",
+    "business_id": "16646978",
+    "address": "327 LIVINGSTON VW NW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Single/detached house",
+    "licenced_date": "2026-09-16T15:59:58",
+    "licenced_expiry_date": "2027-09-16T15:59:58",
+    "status_description": "Licensed",
+    "longitude": "-114.07732396397704",
+    "latitude": "51.189939713723106",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.07732396397704,
+        51.189939713723106
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "11",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "246",
+    ":@computed_region_p8tp_5dkv": "12"
+  },
+  {
     "business_licence_number": "BL280753",
     "business_id": "16492985",
     "address": "#1802 135 13 AV SW",
@@ -10703,6 +10657,29 @@
     ":@computed_region_p8tp_5dkv": "6"
   },
   {
+    "business_licence_number": "BL296132",
+    "business_id": "16676231",
+    "address": "4635B 72 ST NW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2025-09-23T10:02:46",
+    "licenced_expiry_date": "2026-09-23T10:02:46",
+    "status_description": "Licensed",
+    "longitude": "-114.19721029051534",
+    "latitude": "51.09342221310257",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.19721029051534,
+        51.09342221310257
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "13",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "149",
+    ":@computed_region_p8tp_5dkv": "9"
+  },
+  {
     "business_licence_number": "BL304186",
     "business_id": "16768707",
     "address": "266B DISCOVERY RIDGE WY SW",
@@ -11943,6 +11920,29 @@
     ":@computed_region_4a3i_ccfj": "2",
     ":@computed_region_kxmf_bzkv": "92",
     ":@computed_region_p8tp_5dkv": "4"
+  },
+  {
+    "business_licence_number": "BL296349",
+    "business_id": "16678690",
+    "address": "130B EVANSCREST RD NW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2025-09-23T12:01:06",
+    "licenced_expiry_date": "2026-09-23T12:01:06",
+    "status_description": "Licensed",
+    "longitude": "-114.1101014893324",
+    "latitude": "51.18057543725236",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.1101014893324,
+        51.18057543725236
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "3",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "237",
+    ":@computed_region_p8tp_5dkv": "10"
   },
   {
     "business_licence_number": "BL301934",
