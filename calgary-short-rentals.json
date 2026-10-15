@@ -1,613 +1,5 @@
 [
   {
-    "business_licence_number": "BL306491",
-    "business_id": "16794919",
-    "address": "19663 48 ST SE",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Townhouse",
-    "licenced_date": "2026-08-12T16:19:50",
-    "licenced_expiry_date": "2027-08-12T16:19:50",
-    "status_description": "Licensed",
-    "longitude": "-113.94154603986803",
-    "latitude": "50.87729761384509",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -113.94154603986803,
-        50.87729761384509
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "4",
-    ":@computed_region_4a3i_ccfj": "3",
-    ":@computed_region_kxmf_bzkv": "229",
-    ":@computed_region_p8tp_5dkv": "8"
-  },
-  {
-    "business_licence_number": "BL290400",
-    "business_id": "16610305",
-    "address": "539 50 AV SW",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Duplex/triplex",
-    "licenced_date": "2025-11-18T11:31:00",
-    "licenced_expiry_date": "2026-11-18T11:31:00",
-    "status_description": "Licensed",
-    "longitude": "-114.07613911779914",
-    "latitude": "51.00850801212001",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.07613911779914,
-        51.00850801212001
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "8",
-    ":@computed_region_4a3i_ccfj": "1",
-    ":@computed_region_kxmf_bzkv": "144",
-    ":@computed_region_p8tp_5dkv": "5"
-  },
-  {
-    "business_licence_number": "BL301843",
-    "business_id": "16742512",
-    "address": "121B LEWISBURG CL NE",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2026-03-17T08:51:03",
-    "licenced_expiry_date": "2027-03-17T08:51:03",
-    "status_description": "Licensed",
-    "longitude": "-114.03795145565692",
-    "latitude": "51.17995439641037",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.03795145565692,
-        51.17995439641037
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "11",
-    ":@computed_region_4a3i_ccfj": "4",
-    ":@computed_region_kxmf_bzkv": "236",
-    ":@computed_region_p8tp_5dkv": "12"
-  },
-  {
-    "business_licence_number": "BL287925",
-    "business_id": "16580946",
-    "address": "494B LUCAS BV NW",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2026-02-18T10:21:00",
-    "licenced_expiry_date": "2027-02-18T10:21:00",
-    "status_description": "Licensed",
-    "longitude": "-114.07705392469909",
-    "latitude": "51.19128015577596",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.07705392469909,
-        51.19128015577596
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "11",
-    ":@computed_region_4a3i_ccfj": "2",
-    ":@computed_region_kxmf_bzkv": "246",
-    ":@computed_region_p8tp_5dkv": "12"
-  },
-  {
-    "business_licence_number": "BL265981",
-    "business_id": "16298903",
-    "address": "#1302 1010 6 ST SW",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Apartment/condo unit",
-    "licenced_date": "2024-02-25T16:50:27",
-    "licenced_expiry_date": "2025-02-24T16:50:27",
-    "status_description": "Licensed",
-    "longitude": "-114.07622475706214",
-    "latitude": "51.04332741509144",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.07622475706214,
-        51.04332741509144
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "14",
-    ":@computed_region_4a3i_ccfj": "1",
-    ":@computed_region_kxmf_bzkv": "260",
-    ":@computed_region_p8tp_5dkv": "2"
-  },
-  {
-    "business_licence_number": "BL280197",
-    "business_id": "16486508",
-    "address": "141R BRIGHTONWOODS GR SE",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2026-05-16T10:21:38",
-    "licenced_expiry_date": "2027-05-16T10:21:38",
-    "status_description": "Licensed",
-    "longitude": "-113.93730695227276",
-    "latitude": "50.91903709752338",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -113.93730695227276,
-        50.91903709752338
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "4",
-    ":@computed_region_4a3i_ccfj": "3",
-    ":@computed_region_kxmf_bzkv": "139",
-    ":@computed_region_p8tp_5dkv": "8"
-  },
-  {
-    "business_licence_number": "BL277947",
-    "business_id": "16458630",
-    "address": "8B SAGE BLUFF PL NW",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2026-02-28T13:35:47",
-    "licenced_expiry_date": "2027-02-28T13:35:47",
-    "status_description": "Licensed",
-    "longitude": "-114.14068787445332",
-    "latitude": "51.17650305759178",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.14068787445332,
-        51.17650305759178
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "3",
-    ":@computed_region_4a3i_ccfj": "2",
-    ":@computed_region_kxmf_bzkv": "265",
-    ":@computed_region_p8tp_5dkv": "10"
-  },
-  {
-    "business_licence_number": "BL297125",
-    "business_id": "16688764",
-    "address": "#307 1010 6 ST SW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Apartment/condo unit",
-    "licenced_date": "2026-10-27T11:36:21",
-    "licenced_expiry_date": "2027-10-27T11:36:21",
-    "status_description": "Licensed",
-    "longitude": "-114.0759776047398",
-    "latitude": "51.04331330031425",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.0759776047398,
-        51.04331330031425
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "14",
-    ":@computed_region_4a3i_ccfj": "1",
-    ":@computed_region_kxmf_bzkv": "260",
-    ":@computed_region_p8tp_5dkv": "2"
-  },
-  {
-    "business_licence_number": "BL293471",
-    "business_id": "16645889",
-    "address": "#911 730 2 AV SW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Apartment/condo unit",
-    "licenced_date": "2026-06-17T08:58:31",
-    "licenced_expiry_date": "2027-06-17T08:58:31",
-    "status_description": "Licensed",
-    "longitude": "-114.0776432963534",
-    "latitude": "51.05205765790407",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.0776432963534,
-        51.05205765790407
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "7",
-    ":@computed_region_4a3i_ccfj": "1",
-    ":@computed_region_kxmf_bzkv": "295",
-    ":@computed_region_p8tp_5dkv": "7"
-  },
-  {
-    "business_licence_number": "BL300406",
-    "business_id": "16727109",
-    "address": "988B BRACEWOOD RI SW",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2026-01-29T13:37:39",
-    "licenced_expiry_date": "2027-01-29T13:37:39",
-    "status_description": "Licensed",
-    "longitude": "-114.11377355243093",
-    "latitude": "50.95190852221128",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.11377355243093,
-        50.95190852221128
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "8",
-    ":@computed_region_4a3i_ccfj": "1",
-    ":@computed_region_kxmf_bzkv": "23",
-    ":@computed_region_p8tp_5dkv": "5"
-  },
-  {
-    "business_licence_number": "BL232501",
-    "business_id": "15884414",
-    "address": "28 27 AV SW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Single/detached house",
-    "licenced_date": "2026-02-19T14:36:46",
-    "licenced_expiry_date": "2027-02-19T14:36:46",
-    "status_description": "Licensed",
-    "longitude": "-114.06088720349301",
-    "latitude": "51.02981639878573",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.06088720349301,
-        51.02981639878573
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "10",
-    ":@computed_region_4a3i_ccfj": "1",
-    ":@computed_region_kxmf_bzkv": "187",
-    ":@computed_region_p8tp_5dkv": "5"
-  },
-  {
-    "business_licence_number": "BL304425",
-    "business_id": "16771065",
-    "address": "166B AQUILA WY NW",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2026-05-15T16:49:34",
-    "licenced_expiry_date": "2027-05-15T16:49:34",
-    "status_description": "Licensed",
-    "longitude": "-114.17254812380564",
-    "latitude": "51.18357479595256",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.17254812380564,
-        51.18357479595256
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "3",
-    ":@computed_region_4a3i_ccfj": "2",
-    ":@computed_region_kxmf_bzkv": "225",
-    ":@computed_region_p8tp_5dkv": "10"
-  },
-  {
-    "business_licence_number": "BL305294",
-    "business_id": "16781338",
-    "address": "30B SETONVISTA GV SE",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2026-06-11T08:24:31",
-    "licenced_expiry_date": "2027-06-11T08:24:31",
-    "status_description": "Licensed",
-    "longitude": "-113.95298752057288",
-    "latitude": "50.85955260785708",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -113.95298752057288,
-        50.85955260785708
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "4",
-    ":@computed_region_4a3i_ccfj": "3",
-    ":@computed_region_kxmf_bzkv": "256",
-    ":@computed_region_p8tp_5dkv": "8"
-  },
-  {
-    "business_licence_number": "BL287459",
-    "business_id": "16573867",
-    "address": "278B WEST RANCH PL SW",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "A bedroom in the home",
-    "licenced_date": "2026-05-01T15:57:57",
-    "licenced_expiry_date": "2027-05-01T15:57:57",
-    "status_description": "Licensed"
-  },
-  {
-    "business_licence_number": "BL298032",
-    "business_id": "16699126",
-    "address": "18B RED SKY PS NE",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2025-11-14T07:43:38",
-    "licenced_expiry_date": "2026-11-14T07:43:38",
-    "status_description": "Licensed",
-    "longitude": "-113.95402299509765",
-    "latitude": "51.1724872052036",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -113.95402299509765,
-        51.1724872052036
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "11",
-    ":@computed_region_4a3i_ccfj": "4",
-    ":@computed_region_kxmf_bzkv": "3",
-    ":@computed_region_p8tp_5dkv": "1"
-  },
-  {
-    "business_licence_number": "BL255628",
-    "business_id": "16162885",
-    "address": "#1105 135 13 AV SW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Apartment/condo unit",
-    "licenced_date": "2026-05-10T12:48:56",
-    "licenced_expiry_date": "2027-05-10T12:48:56",
-    "status_description": "Licensed",
-    "longitude": "-114.06564340179085",
-    "latitude": "51.04039881316112",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.06564340179085,
-        51.04039881316112
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "14",
-    ":@computed_region_4a3i_ccfj": "1",
-    ":@computed_region_kxmf_bzkv": "260",
-    ":@computed_region_p8tp_5dkv": "5"
-  },
-  {
-    "business_licence_number": "BL285848",
-    "business_id": "16554784",
-    "address": "48 CARRINGVUE PS NW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "A bedroom in the home",
-    "licenced_date": "2025-11-15T12:25:26",
-    "licenced_expiry_date": "2026-11-15T12:25:26",
-    "status_description": "Licensed",
-    "longitude": "-114.07870006422891",
-    "latitude": "51.177814666957545",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.07870006422891,
-        51.177814666957545
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "11",
-    ":@computed_region_4a3i_ccfj": "2",
-    ":@computed_region_kxmf_bzkv": "242",
-    ":@computed_region_p8tp_5dkv": "12"
-  },
-  {
-    "business_licence_number": "BL289860",
-    "business_id": "16604563",
-    "address": "268 RANGEVIEW WY SE",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Single/detached house",
-    "licenced_date": "2026-03-28T14:49:25",
-    "licenced_expiry_date": "2027-03-28T14:49:25",
-    "status_description": "Licensed",
-    "longitude": "-113.9219772933168",
-    "latitude": "50.87395855434432",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -113.9219772933168,
-        50.87395855434432
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "4",
-    ":@computed_region_4a3i_ccfj": "3",
-    ":@computed_region_kxmf_bzkv": "222",
-    ":@computed_region_p8tp_5dkv": "8"
-  },
-  {
-    "business_licence_number": "BL303582",
-    "business_id": "16762395",
-    "address": "433B MARTINDALE DR NE",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2026-04-29T14:37:34",
-    "licenced_expiry_date": "2027-04-29T14:37:34",
-    "status_description": "Licensed",
-    "longitude": "-113.95300887631664",
-    "latitude": "51.12223202158094",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -113.95300887631664,
-        51.12223202158094
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "9",
-    ":@computed_region_4a3i_ccfj": "4",
-    ":@computed_region_kxmf_bzkv": "180",
-    ":@computed_region_p8tp_5dkv": "1"
-  },
-  {
-    "business_licence_number": "BL296417",
-    "business_id": "16679763",
-    "address": "415 TACHE AV NW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Single/detached house",
-    "licenced_date": "2026-10-03T13:16:50",
-    "licenced_expiry_date": "2027-10-03T13:16:50",
-    "status_description": "Licensed",
-    "longitude": "-114.06907073594525",
-    "latitude": "51.10787934927923",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.06907073594525,
-        51.10787934927923
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "2",
-    ":@computed_region_4a3i_ccfj": "2",
-    ":@computed_region_kxmf_bzkv": "192",
-    ":@computed_region_p8tp_5dkv": "4"
-  },
-  {
-    "business_licence_number": "BL301941",
-    "business_id": "16743619",
-    "address": "1612 23 ST NW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Single/detached house",
-    "licenced_date": "2026-03-04T14:32:33",
-    "licenced_expiry_date": "2027-03-04T14:32:33",
-    "status_description": "Licensed",
-    "longitude": "-114.11615341110914",
-    "latitude": "51.066582148156265",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.11615341110914,
-        51.066582148156265
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "7",
-    ":@computed_region_4a3i_ccfj": "2",
-    ":@computed_region_kxmf_bzkv": "152",
-    ":@computed_region_p8tp_5dkv": "7"
-  },
-  {
-    "business_licence_number": "BL299701",
-    "business_id": "16719676",
-    "address": "#1B 462 20 AV NW",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "A bedroom in the home",
-    "licenced_date": "2026-01-14T11:11:32",
-    "licenced_expiry_date": "2027-01-14T11:11:32",
-    "status_description": "Licensed",
-    "longitude": "-114.07085498368464",
-    "latitude": "51.070733765811525",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.07085498368464,
-        51.070733765811525
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "7",
-    ":@computed_region_4a3i_ccfj": "2",
-    ":@computed_region_kxmf_bzkv": "17",
-    ":@computed_region_p8tp_5dkv": "7"
-  },
-  {
-    "business_licence_number": "BL299810",
-    "business_id": "16720971",
-    "address": "175B SAGE BLUFF DR NW",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2026-01-14T11:18:34",
-    "licenced_expiry_date": "2027-01-14T11:18:34",
-    "status_description": "Licensed",
-    "longitude": "-114.13803534330644",
-    "latitude": "51.17695081256892",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.13803534330644,
-        51.17695081256892
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "3",
-    ":@computed_region_4a3i_ccfj": "2",
-    ":@computed_region_kxmf_bzkv": "265",
-    ":@computed_region_p8tp_5dkv": "10"
-  },
-  {
-    "business_licence_number": "BL287526",
-    "business_id": "16574733",
-    "address": "229B AMBLETON DR NW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2026-01-29T10:59:18",
-    "licenced_expiry_date": "2027-01-29T10:59:18",
-    "status_description": "Licensed",
-    "longitude": "-114.1144428912633",
-    "latitude": "51.18588605695625",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.1144428912633,
-        51.18588605695625
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "3",
-    ":@computed_region_4a3i_ccfj": "2",
-    ":@computed_region_kxmf_bzkv": "288",
-    ":@computed_region_p8tp_5dkv": "10"
-  },
-  {
-    "business_licence_number": "BL293175",
-    "business_id": "16642811",
-    "address": "763B WALGROVE BV SE",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Legally registered suite",
-    "licenced_date": "2026-07-17T12:53:56",
-    "licenced_expiry_date": "2027-07-17T12:53:56",
-    "status_description": "Licensed",
-    "longitude": "-114.01348214843213",
-    "latitude": "50.86590395045414",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.01348214843213,
-        50.86590395045414
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "6",
-    ":@computed_region_4a3i_ccfj": "3",
-    ":@computed_region_kxmf_bzkv": "135",
-    ":@computed_region_p8tp_5dkv": "13"
-  },
-  {
-    "business_licence_number": "BL272509",
-    "business_id": "16382889",
-    "address": "319R 9A ST NW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Apartment/condo unit",
-    "licenced_date": "2026-08-29T06:06:31",
-    "licenced_expiry_date": "2027-08-29T06:06:31",
-    "status_description": "Licensed",
-    "longitude": "-114.08497443537662",
-    "latitude": "51.05489717576506",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.08497443537662,
-        51.05489717576506
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "7",
-    ":@computed_region_4a3i_ccfj": "2",
-    ":@computed_region_kxmf_bzkv": "62",
-    ":@computed_region_p8tp_5dkv": "7"
-  },
-  {
-    "business_licence_number": "BL300130",
-    "business_id": "16724270",
-    "address": "#1 1149 9 ST SE",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Apartment/condo unit",
-    "licenced_date": "2026-01-22T12:44:17",
-    "licenced_expiry_date": "2027-01-22T12:44:17",
-    "status_description": "Licensed",
-    "longitude": "-114.03993874880945",
-    "latitude": "51.03799221896011",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.03993874880945,
-        51.03799221896011
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "10",
-    ":@computed_region_4a3i_ccfj": "3",
-    ":@computed_region_kxmf_bzkv": "132",
-    ":@computed_region_p8tp_5dkv": "11"
-  },
-  {
     "business_licence_number": "BL287081",
     "business_id": "16568909",
     "address": "#4 310 20 AV SW",
@@ -3182,16 +2574,6 @@
     ":@computed_region_4a3i_ccfj": "3",
     ":@computed_region_kxmf_bzkv": "133",
     ":@computed_region_p8tp_5dkv": "6"
-  },
-  {
-    "business_licence_number": "BL287213",
-    "business_id": "16570921",
-    "address": "3232D 19 AV SE",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Duplex/triplex",
-    "licenced_date": "2026-02-18T10:18:57",
-    "licenced_expiry_date": "2027-02-18T10:18:57",
-    "status_description": "Licensed"
   },
   {
     "business_licence_number": "BL295627",
@@ -18003,6 +17385,52 @@
     ":@computed_region_p8tp_5dkv": "12"
   },
   {
+    "business_licence_number": "BL306491",
+    "business_id": "16794919",
+    "address": "19663 48 ST SE",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Townhouse",
+    "licenced_date": "2026-08-12T16:19:50",
+    "licenced_expiry_date": "2027-08-12T16:19:50",
+    "status_description": "Licensed",
+    "longitude": "-113.94154603986803",
+    "latitude": "50.87729761384509",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -113.94154603986803,
+        50.87729761384509
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "4",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "229",
+    ":@computed_region_p8tp_5dkv": "8"
+  },
+  {
+    "business_licence_number": "BL290400",
+    "business_id": "16610305",
+    "address": "539 50 AV SW",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Duplex/triplex",
+    "licenced_date": "2025-11-18T11:31:00",
+    "licenced_expiry_date": "2026-11-18T11:31:00",
+    "status_description": "Licensed",
+    "longitude": "-114.07613911779914",
+    "latitude": "51.00850801212001",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.07613911779914,
+        51.00850801212001
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "8",
+    ":@computed_region_4a3i_ccfj": "1",
+    ":@computed_region_kxmf_bzkv": "144",
+    ":@computed_region_p8tp_5dkv": "5"
+  },
+  {
     "business_licence_number": "BL287330",
     "business_id": "16572406",
     "address": "160R CALHOUN CR NE",
@@ -27661,6 +27089,578 @@
     ":@computed_region_4a3i_ccfj": "2",
     ":@computed_region_kxmf_bzkv": "242",
     ":@computed_region_p8tp_5dkv": "12"
+  },
+  {
+    "business_licence_number": "BL287213",
+    "business_id": "16570921",
+    "address": "3232D 19 AV SE",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Duplex/triplex",
+    "licenced_date": "2026-02-18T10:18:57",
+    "licenced_expiry_date": "2027-02-18T10:18:57",
+    "status_description": "Licensed"
+  },
+  {
+    "business_licence_number": "BL301843",
+    "business_id": "16742512",
+    "address": "121B LEWISBURG CL NE",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2026-03-17T08:51:03",
+    "licenced_expiry_date": "2027-03-17T08:51:03",
+    "status_description": "Licensed",
+    "longitude": "-114.03795145565692",
+    "latitude": "51.17995439641037",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.03795145565692,
+        51.17995439641037
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "11",
+    ":@computed_region_4a3i_ccfj": "4",
+    ":@computed_region_kxmf_bzkv": "236",
+    ":@computed_region_p8tp_5dkv": "12"
+  },
+  {
+    "business_licence_number": "BL287925",
+    "business_id": "16580946",
+    "address": "494B LUCAS BV NW",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2026-02-18T10:21:00",
+    "licenced_expiry_date": "2027-02-18T10:21:00",
+    "status_description": "Licensed",
+    "longitude": "-114.07705392469909",
+    "latitude": "51.19128015577596",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.07705392469909,
+        51.19128015577596
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "11",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "246",
+    ":@computed_region_p8tp_5dkv": "12"
+  },
+  {
+    "business_licence_number": "BL265981",
+    "business_id": "16298903",
+    "address": "#1302 1010 6 ST SW",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Apartment/condo unit",
+    "licenced_date": "2024-02-25T16:50:27",
+    "licenced_expiry_date": "2025-02-24T16:50:27",
+    "status_description": "Licensed",
+    "longitude": "-114.07622475706214",
+    "latitude": "51.04332741509144",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.07622475706214,
+        51.04332741509144
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "14",
+    ":@computed_region_4a3i_ccfj": "1",
+    ":@computed_region_kxmf_bzkv": "260",
+    ":@computed_region_p8tp_5dkv": "2"
+  },
+  {
+    "business_licence_number": "BL280197",
+    "business_id": "16486508",
+    "address": "141R BRIGHTONWOODS GR SE",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2026-05-16T10:21:38",
+    "licenced_expiry_date": "2027-05-16T10:21:38",
+    "status_description": "Licensed",
+    "longitude": "-113.93730695227276",
+    "latitude": "50.91903709752338",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -113.93730695227276,
+        50.91903709752338
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "4",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "139",
+    ":@computed_region_p8tp_5dkv": "8"
+  },
+  {
+    "business_licence_number": "BL277947",
+    "business_id": "16458630",
+    "address": "8B SAGE BLUFF PL NW",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2026-02-28T13:35:47",
+    "licenced_expiry_date": "2027-02-28T13:35:47",
+    "status_description": "Licensed",
+    "longitude": "-114.14068787445332",
+    "latitude": "51.17650305759178",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.14068787445332,
+        51.17650305759178
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "3",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "265",
+    ":@computed_region_p8tp_5dkv": "10"
+  },
+  {
+    "business_licence_number": "BL297125",
+    "business_id": "16688764",
+    "address": "#307 1010 6 ST SW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Apartment/condo unit",
+    "licenced_date": "2026-10-27T11:36:21",
+    "licenced_expiry_date": "2027-10-27T11:36:21",
+    "status_description": "Licensed",
+    "longitude": "-114.0759776047398",
+    "latitude": "51.04331330031425",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.0759776047398,
+        51.04331330031425
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "14",
+    ":@computed_region_4a3i_ccfj": "1",
+    ":@computed_region_kxmf_bzkv": "260",
+    ":@computed_region_p8tp_5dkv": "2"
+  },
+  {
+    "business_licence_number": "BL293471",
+    "business_id": "16645889",
+    "address": "#911 730 2 AV SW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Apartment/condo unit",
+    "licenced_date": "2026-06-17T08:58:31",
+    "licenced_expiry_date": "2027-06-17T08:58:31",
+    "status_description": "Licensed",
+    "longitude": "-114.0776432963534",
+    "latitude": "51.05205765790407",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.0776432963534,
+        51.05205765790407
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "7",
+    ":@computed_region_4a3i_ccfj": "1",
+    ":@computed_region_kxmf_bzkv": "295",
+    ":@computed_region_p8tp_5dkv": "7"
+  },
+  {
+    "business_licence_number": "BL300406",
+    "business_id": "16727109",
+    "address": "988B BRACEWOOD RI SW",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2026-01-29T13:37:39",
+    "licenced_expiry_date": "2027-01-29T13:37:39",
+    "status_description": "Licensed",
+    "longitude": "-114.11377355243093",
+    "latitude": "50.95190852221128",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.11377355243093,
+        50.95190852221128
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "8",
+    ":@computed_region_4a3i_ccfj": "1",
+    ":@computed_region_kxmf_bzkv": "23",
+    ":@computed_region_p8tp_5dkv": "5"
+  },
+  {
+    "business_licence_number": "BL232501",
+    "business_id": "15884414",
+    "address": "28 27 AV SW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Single/detached house",
+    "licenced_date": "2026-02-19T14:36:46",
+    "licenced_expiry_date": "2027-02-19T14:36:46",
+    "status_description": "Licensed",
+    "longitude": "-114.06088720349301",
+    "latitude": "51.02981639878573",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.06088720349301,
+        51.02981639878573
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "10",
+    ":@computed_region_4a3i_ccfj": "1",
+    ":@computed_region_kxmf_bzkv": "187",
+    ":@computed_region_p8tp_5dkv": "5"
+  },
+  {
+    "business_licence_number": "BL304425",
+    "business_id": "16771065",
+    "address": "166B AQUILA WY NW",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2026-05-15T16:49:34",
+    "licenced_expiry_date": "2027-05-15T16:49:34",
+    "status_description": "Licensed",
+    "longitude": "-114.17254812380564",
+    "latitude": "51.18357479595256",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.17254812380564,
+        51.18357479595256
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "3",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "225",
+    ":@computed_region_p8tp_5dkv": "10"
+  },
+  {
+    "business_licence_number": "BL305294",
+    "business_id": "16781338",
+    "address": "30B SETONVISTA GV SE",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2026-06-11T08:24:31",
+    "licenced_expiry_date": "2027-06-11T08:24:31",
+    "status_description": "Licensed",
+    "longitude": "-113.95298752057288",
+    "latitude": "50.85955260785708",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -113.95298752057288,
+        50.85955260785708
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "4",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "256",
+    ":@computed_region_p8tp_5dkv": "8"
+  },
+  {
+    "business_licence_number": "BL287459",
+    "business_id": "16573867",
+    "address": "278B WEST RANCH PL SW",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "A bedroom in the home",
+    "licenced_date": "2026-05-01T15:57:57",
+    "licenced_expiry_date": "2027-05-01T15:57:57",
+    "status_description": "Licensed"
+  },
+  {
+    "business_licence_number": "BL298032",
+    "business_id": "16699126",
+    "address": "18B RED SKY PS NE",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2025-11-14T07:43:38",
+    "licenced_expiry_date": "2026-11-14T07:43:38",
+    "status_description": "Licensed",
+    "longitude": "-113.95402299509765",
+    "latitude": "51.1724872052036",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -113.95402299509765,
+        51.1724872052036
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "11",
+    ":@computed_region_4a3i_ccfj": "4",
+    ":@computed_region_kxmf_bzkv": "3",
+    ":@computed_region_p8tp_5dkv": "1"
+  },
+  {
+    "business_licence_number": "BL255628",
+    "business_id": "16162885",
+    "address": "#1105 135 13 AV SW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Apartment/condo unit",
+    "licenced_date": "2026-05-10T12:48:56",
+    "licenced_expiry_date": "2027-05-10T12:48:56",
+    "status_description": "Licensed",
+    "longitude": "-114.06564340179085",
+    "latitude": "51.04039881316112",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.06564340179085,
+        51.04039881316112
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "14",
+    ":@computed_region_4a3i_ccfj": "1",
+    ":@computed_region_kxmf_bzkv": "260",
+    ":@computed_region_p8tp_5dkv": "5"
+  },
+  {
+    "business_licence_number": "BL285848",
+    "business_id": "16554784",
+    "address": "48 CARRINGVUE PS NW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "A bedroom in the home",
+    "licenced_date": "2025-11-15T12:25:26",
+    "licenced_expiry_date": "2026-11-15T12:25:26",
+    "status_description": "Licensed",
+    "longitude": "-114.07870006422891",
+    "latitude": "51.177814666957545",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.07870006422891,
+        51.177814666957545
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "11",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "242",
+    ":@computed_region_p8tp_5dkv": "12"
+  },
+  {
+    "business_licence_number": "BL289860",
+    "business_id": "16604563",
+    "address": "268 RANGEVIEW WY SE",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Single/detached house",
+    "licenced_date": "2026-03-28T14:49:25",
+    "licenced_expiry_date": "2027-03-28T14:49:25",
+    "status_description": "Licensed",
+    "longitude": "-113.9219772933168",
+    "latitude": "50.87395855434432",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -113.9219772933168,
+        50.87395855434432
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "4",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "222",
+    ":@computed_region_p8tp_5dkv": "8"
+  },
+  {
+    "business_licence_number": "BL303582",
+    "business_id": "16762395",
+    "address": "433B MARTINDALE DR NE",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2026-04-29T14:37:34",
+    "licenced_expiry_date": "2027-04-29T14:37:34",
+    "status_description": "Licensed",
+    "longitude": "-113.95300887631664",
+    "latitude": "51.12223202158094",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -113.95300887631664,
+        51.12223202158094
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "9",
+    ":@computed_region_4a3i_ccfj": "4",
+    ":@computed_region_kxmf_bzkv": "180",
+    ":@computed_region_p8tp_5dkv": "1"
+  },
+  {
+    "business_licence_number": "BL296417",
+    "business_id": "16679763",
+    "address": "415 TACHE AV NW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Single/detached house",
+    "licenced_date": "2026-10-03T13:16:50",
+    "licenced_expiry_date": "2027-10-03T13:16:50",
+    "status_description": "Licensed",
+    "longitude": "-114.06907073594525",
+    "latitude": "51.10787934927923",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.06907073594525,
+        51.10787934927923
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "2",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "192",
+    ":@computed_region_p8tp_5dkv": "4"
+  },
+  {
+    "business_licence_number": "BL301941",
+    "business_id": "16743619",
+    "address": "1612 23 ST NW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Single/detached house",
+    "licenced_date": "2026-03-04T14:32:33",
+    "licenced_expiry_date": "2027-03-04T14:32:33",
+    "status_description": "Licensed",
+    "longitude": "-114.11615341110914",
+    "latitude": "51.066582148156265",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.11615341110914,
+        51.066582148156265
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "7",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "152",
+    ":@computed_region_p8tp_5dkv": "7"
+  },
+  {
+    "business_licence_number": "BL299701",
+    "business_id": "16719676",
+    "address": "#1B 462 20 AV NW",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "A bedroom in the home",
+    "licenced_date": "2026-01-14T11:11:32",
+    "licenced_expiry_date": "2027-01-14T11:11:32",
+    "status_description": "Licensed",
+    "longitude": "-114.07085498368464",
+    "latitude": "51.070733765811525",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.07085498368464,
+        51.070733765811525
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "7",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "17",
+    ":@computed_region_p8tp_5dkv": "7"
+  },
+  {
+    "business_licence_number": "BL299810",
+    "business_id": "16720971",
+    "address": "175B SAGE BLUFF DR NW",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2026-01-14T11:18:34",
+    "licenced_expiry_date": "2027-01-14T11:18:34",
+    "status_description": "Licensed",
+    "longitude": "-114.13803534330644",
+    "latitude": "51.17695081256892",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.13803534330644,
+        51.17695081256892
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "3",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "265",
+    ":@computed_region_p8tp_5dkv": "10"
+  },
+  {
+    "business_licence_number": "BL287526",
+    "business_id": "16574733",
+    "address": "229B AMBLETON DR NW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2026-01-29T10:59:18",
+    "licenced_expiry_date": "2027-01-29T10:59:18",
+    "status_description": "Licensed",
+    "longitude": "-114.1144428912633",
+    "latitude": "51.18588605695625",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.1144428912633,
+        51.18588605695625
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "3",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "288",
+    ":@computed_region_p8tp_5dkv": "10"
+  },
+  {
+    "business_licence_number": "BL293175",
+    "business_id": "16642811",
+    "address": "763B WALGROVE BV SE",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Legally registered suite",
+    "licenced_date": "2026-07-17T12:53:56",
+    "licenced_expiry_date": "2027-07-17T12:53:56",
+    "status_description": "Licensed",
+    "longitude": "-114.01348214843213",
+    "latitude": "50.86590395045414",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.01348214843213,
+        50.86590395045414
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "6",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "135",
+    ":@computed_region_p8tp_5dkv": "13"
+  },
+  {
+    "business_licence_number": "BL272509",
+    "business_id": "16382889",
+    "address": "319R 9A ST NW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Apartment/condo unit",
+    "licenced_date": "2026-08-29T06:06:31",
+    "licenced_expiry_date": "2027-08-29T06:06:31",
+    "status_description": "Licensed",
+    "longitude": "-114.08497443537662",
+    "latitude": "51.05489717576506",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.08497443537662,
+        51.05489717576506
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "7",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "62",
+    ":@computed_region_p8tp_5dkv": "7"
+  },
+  {
+    "business_licence_number": "BL300130",
+    "business_id": "16724270",
+    "address": "#1 1149 9 ST SE",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Apartment/condo unit",
+    "licenced_date": "2026-01-22T12:44:17",
+    "licenced_expiry_date": "2027-01-22T12:44:17",
+    "status_description": "Licensed",
+    "longitude": "-114.03993874880945",
+    "latitude": "51.03799221896011",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.03993874880945,
+        51.03799221896011
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "10",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "132",
+    ":@computed_region_p8tp_5dkv": "11"
   },
   {
     "business_licence_number": "BL238768",
