@@ -115,62 +115,6 @@
     ":@computed_region_p8tp_5dkv": "7"
   },
   {
-    "business_licence_number": "BL308914",
-    "business_id": "16824641",
-    "address": "#105 1728 34 ST SE",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Townhouse",
-    "licenced_date": "2026-10-01T14:06:20",
-    "licenced_expiry_date": "2027-10-01T14:06:20",
-    "status_description": "Licensed",
-    "longitude": "-113.98427161899316",
-    "latitude": "51.03839543922611",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -113.98427161899316,
-        51.03839543922611
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "12",
-    ":@computed_region_4a3i_ccfj": "3",
-    ":@computed_region_kxmf_bzkv": "121",
-    ":@computed_region_p8tp_5dkv": "11"
-  },
-  {
-    "business_licence_number": "BL232996",
-    "business_id": "15890247",
-    "address": "1733 28 ST SW",
-    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
-    "type_of_residence": "Single/detached house",
-    "licenced_date": "2024-03-07T15:23:25",
-    "licenced_expiry_date": "2025-03-07T15:23:25",
-    "status_description": "Licensed"
-  },
-  {
-    "business_licence_number": "BL309406",
-    "business_id": "16830754",
-    "address": "4139 BOWLEN ST NW",
-    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
-    "type_of_residence": "Single/detached house",
-    "licenced_date": "2026-10-08T11:43:16",
-    "licenced_expiry_date": "2027-10-08T11:43:16",
-    "status_description": "Licensed",
-    "longitude": "-114.1226184796488",
-    "latitude": "51.092192377569205",
-    "point": {
-      "type": "Point",
-      "coordinates": [
-        -114.1226184796488,
-        51.092192377569205
-      ]
-    },
-    ":@computed_region_4b54_tmc4": "7",
-    ":@computed_region_4a3i_ccfj": "2",
-    ":@computed_region_kxmf_bzkv": "50",
-    ":@computed_region_p8tp_5dkv": "4"
-  },
-  {
     "business_licence_number": "BL276680",
     "business_id": "16442055",
     "address": "215 CHAPARRAL VALLEY WY SE",
@@ -215,6 +159,16 @@
     ":@computed_region_4a3i_ccfj": "1",
     ":@computed_region_kxmf_bzkv": "260",
     ":@computed_region_p8tp_5dkv": "2"
+  },
+  {
+    "business_licence_number": "BL232996",
+    "business_id": "15890247",
+    "address": "1733 28 ST SW",
+    "business_licence_type": "SHORT TERM RENTAL - PRIMARY RESIDENCE",
+    "type_of_residence": "Single/detached house",
+    "licenced_date": "2024-03-07T15:23:25",
+    "licenced_expiry_date": "2025-03-07T15:23:25",
+    "status_description": "Licensed"
   },
   {
     "business_licence_number": "BL253615",
@@ -675,6 +629,29 @@
     ":@computed_region_4a3i_ccfj": "1",
     ":@computed_region_kxmf_bzkv": "122",
     ":@computed_region_p8tp_5dkv": "5"
+  },
+  {
+    "business_licence_number": "BL308914",
+    "business_id": "16824641",
+    "address": "#105 1728 34 ST SE",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Townhouse",
+    "licenced_date": "2026-10-01T14:06:20",
+    "licenced_expiry_date": "2027-10-01T14:06:20",
+    "status_description": "Licensed",
+    "longitude": "-113.98427161899316",
+    "latitude": "51.03839543922611",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -113.98427161899316,
+        51.03839543922611
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "12",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "121",
+    ":@computed_region_p8tp_5dkv": "11"
   },
   {
     "business_licence_number": "BL273586",
@@ -8196,6 +8173,29 @@
     ":@computed_region_4a3i_ccfj": "4",
     ":@computed_region_kxmf_bzkv": "251",
     ":@computed_region_p8tp_5dkv": "12"
+  },
+  {
+    "business_licence_number": "BL309406",
+    "business_id": "16830754",
+    "address": "4139 BOWLEN ST NW",
+    "business_licence_type": "SHORT TERM RENTAL - NON-PRIMARY RESIDENCE",
+    "type_of_residence": "Single/detached house",
+    "licenced_date": "2026-10-08T11:43:16",
+    "licenced_expiry_date": "2027-10-08T11:43:16",
+    "status_description": "Licensed",
+    "longitude": "-114.1226184796488",
+    "latitude": "51.092192377569205",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.1226184796488,
+        51.092192377569205
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "7",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "50",
+    ":@computed_region_p8tp_5dkv": "4"
   },
   {
     "business_licence_number": "BL307739",
